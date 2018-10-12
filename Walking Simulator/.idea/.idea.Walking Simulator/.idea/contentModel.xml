@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Temmie\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Temmie\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Walking Simulator.-730762026.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Temmie\Desktop\Game Studio 1\Walking Simulator\Walking Simulator" t="IncludeRecursive">
+    <e p="C:\Users\dell\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\dell\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dell\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Walking Simulator.1619077440.00" t="ExcludeRecursive" />
+    <e p="D:\files\game studio\Palmmy_and_Amber_Village\Walking Simulator" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -31,6 +32,24 @@
           <e p="Script" t="Include">
             <e p="MainCharacterController.cs" t="Include" />
             <e p="MouseLookCam.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Pixelation" t="Include">
+          <e p="Example" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ImageEffectBase.cs" t="Include" />
+              <e p="Plane.cs" t="Include" />
+              <e p="PointLight.cs" t="Include" />
+            </e>
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Chunky.cs" t="Include" />
+            <e p="Pixelation.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Chunky.shader" t="Include" />
+            <e p="Pixelation.shader" t="Include" />
           </e>
         </e>
         <e p="ProCore" t="Include">
@@ -186,6 +205,11 @@
               <e p="pg_GridShader.shader" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Billboard.cs" t="Include" />
+          <e p="ButtonNavigation.cs" t="Include" />
+          <e p="Manager.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">

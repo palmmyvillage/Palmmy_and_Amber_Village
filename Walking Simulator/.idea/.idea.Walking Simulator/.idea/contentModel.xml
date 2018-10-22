@@ -188,6 +188,7 @@
           <e p="SoldierSPchange.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="FaceCamera.cs" t="Include" />
           <e p="FaceTarget.cs" t="Include" />
           <e p="Manager.cs" t="Include" />
         </e>

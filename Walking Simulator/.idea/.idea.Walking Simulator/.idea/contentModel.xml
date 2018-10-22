@@ -207,8 +207,8 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="Billboard.cs" t="Include" />
           <e p="ButtonNavigation.cs" t="Include" />
+          <e p="FaceTarget.cs" t="Include" />
           <e p="Manager.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">

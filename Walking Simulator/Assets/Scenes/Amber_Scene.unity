@@ -7557,11 +7557,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &288681230 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100006, guid: c6453f8e1f814744d8b94e5a6d1f9942,
-    type: 2}
-  m_PrefabInternal: {fileID: 1508431267}
 --- !u!4 &288681232 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942,
@@ -7657,7 +7652,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55a210c0b9ef38c4aa523bb66b8dea38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Target: {fileID: 288681230}
 --- !u!114 &433649353
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7681,11 +7675,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f71da64ca4e4930478d34b871b642a2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  xOffset: 0
-  yOffset: 0
-  zOffset: 0
-  playerPosition: {x: 0, y: 0, z: 0}
 --- !u!1 &499738156
 GameObject:
   m_ObjectHideFlags: 0
@@ -9203,7 +9192,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh20540
+  m_Name: pb_Mesh17156
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2

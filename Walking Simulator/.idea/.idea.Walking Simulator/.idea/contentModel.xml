@@ -28,30 +28,6 @@
             </e>
           </e>
         </e>
-        <e p="MainCharacter" t="Include">
-          <e p="Script" t="Include">
-            <e p="MainCharacterController.cs" t="Include" />
-            <e p="MouseLookCam.cs" t="Include" />
-          </e>
-        </e>
-        <e p="Pixelation" t="Include">
-          <e p="Example" t="Include">
-            <e p="Scripts" t="Include">
-              <e p="ImageEffectBase.cs" t="Include" />
-              <e p="Plane.cs" t="Include" />
-              <e p="PointLight.cs" t="Include" />
-            </e>
-          </e>
-          <e p="README.txt" t="Include" />
-          <e p="Scripts" t="Include">
-            <e p="Chunky.cs" t="Include" />
-            <e p="Pixelation.cs" t="Include" />
-          </e>
-          <e p="Shaders" t="Include">
-            <e p="Chunky.shader" t="Include" />
-            <e p="Pixelation.shader" t="Include" />
-          </e>
-        </e>
         <e p="ProCore" t="Include">
           <e p="ProBuilder" t="Include">
             <e p="About" t="Include">
@@ -206,8 +182,12 @@
             </e>
           </e>
         </e>
+        <e p="Script" t="Include">
+          <e p="BoxOpen.cs" t="Include" />
+          <e p="DoorOpener.cs" t="Include" />
+          <e p="SoldierSPchange.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
-          <e p="ButtonNavigation.cs" t="Include" />
           <e p="FaceTarget.cs" t="Include" />
           <e p="Manager.cs" t="Include" />
         </e>

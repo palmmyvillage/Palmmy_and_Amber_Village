@@ -15,12 +15,14 @@ MonoBehaviour:
   - pbUVMaterialPreview
   - pbExtrudeAsGroup
   - pbManifoldEdgeExtrusion
+  - pbEnableBackfaceSelection
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
   - pb_GIWorkflowMode
   - pbHandleAlignment
   - pbExtrudeMethod
+  - pbDragSelectMode
   m_Float_keys:
   - pbEditorScroll.x
   - pbEditorScroll.y
@@ -29,11 +31,11 @@ MonoBehaviour:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 010101
-  m_Int_values: 0000000002000000000000000000000000000000
+  m_Bool_values: 01010100
+  m_Int_values: 000000000100000001000000000000000000000001000000
   m_Float_values:
   - 0
-  - 315.3999
+  - 0
   - 1
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset

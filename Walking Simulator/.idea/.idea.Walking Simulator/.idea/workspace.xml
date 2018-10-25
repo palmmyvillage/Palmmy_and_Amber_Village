@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="37c6fc29-5ebe-4da5-82c9-b371d521864f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Resources/Materials/VertexPicker.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Resources/Materials/VertexPicker.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Amber_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Amber_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Amber_Town_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Amber_Town_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Palmmy_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Palmmy_Scene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +58,10 @@
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -83,36 +89,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-              <folding>
-                <marker date="1540170378649" expanded="true" signature="6:66" ph="..." />
-                <marker date="1540170378649" expanded="true" signature="140:1412" ph="{...}" />
-                <marker date="1540170378649" expanded="true" signature="434:614" ph="{...}" />
-                <marker date="1540170378649" expanded="true" signature="631:1001" ph="{...}" />
-                <marker date="1540170378649" expanded="true" signature="1023:1151" ph="{...}" />
-                <marker date="1540170378649" expanded="true" signature="1175:1299" ph="{...}" />
-                <marker date="1540170378649" expanded="true" signature="1324:1352" ph="{...}" />
-                <marker date="1540170378649" expanded="true" signature="1376:1410" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -128,7 +105,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/First Person Drifter Controller/Scripts/Optional/HeadBob.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FaceTarget.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ProCore/ProGrids/Editor/pg_Editor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../code lab 0/CodeLab0-Week5-GitDemo/Assets/Scripts/LerpMove.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/First Person Drifter Controller/Scripts/Optional/CheckIfBelowLevel.cs" root0="FORCE_HIGHLIGHTING" />
@@ -144,10 +121,10 @@
         <option value="$PROJECT_DIR$/Assets/MainCharacter/Script/MainCharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Billboard.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FacePlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FaceTarget.cs" />
         <option value="$PROJECT_DIR$/../../../code lab 0/CodeLab0-Week5-GitDemo/Assets/Scripts/LerpMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs" />
       </list>
     </option>
   </component>
@@ -158,8 +135,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="191" />
-    <option name="y" value="78" />
+    <option name="x" value="547" />
+    <option name="y" value="27" />
     <option name="width" value="1345" />
     <option name="height" value="935" />
   </component>
@@ -243,7 +220,8 @@
       <workItem from="1539323486071" duration="274000" />
       <workItem from="1539887538402" duration="5636000" />
       <workItem from="1540169141489" duration="448000" />
-      <workItem from="1540169621417" duration="1405000" />
+      <workItem from="1540169621417" duration="2073000" />
+      <workItem from="1540491594615" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="Amber update Menu UI in Amber_Scene.&#10;Amber add a 'pixelation' tool.(Never mind)">
       <created>1539318569148</created>
@@ -273,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540170549816</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Amber adds town scene.&#10;Amber adds some new materials.">
+      <created>1540172015116</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540172015116</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24233000" />
+    <option name="totallyTimeSpent" value="25178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,10 +274,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="352" y="19" width="1076" height="748" extended-state="0" />
-    <editor active="true" />
+    <frame x="438" y="22" width="1076" height="748" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18860511" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19253439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,7 +288,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291592" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4992658" visible="true" weight="0.299187" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4992658" visible="true" weight="0.299187" />
       <window_info anchor="bottom" id="Unity" order="10" weight="0.3291592" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.3291592" />
@@ -399,10 +383,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        <state relative-caret-position="912">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
-            <marker date="1540170378649" expanded="true" signature="6:66" ph="..." />
+            <marker date="1540170378649" expanded="false" signature="6:66" ph="..." />
             <marker date="1540170378649" expanded="true" signature="140:1412" ph="{...}" />
             <marker date="1540170378649" expanded="true" signature="434:614" ph="{...}" />
             <marker date="1540170378649" expanded="true" signature="631:1001" ph="{...}" />
@@ -416,8 +400,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-end-line="16" />
+        <state relative-caret-position="152">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1540172003192" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540172003192" expanded="true" signature="120:233" ph="{...}" />
+            <marker date="1540172003192" expanded="true" signature="164:231" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

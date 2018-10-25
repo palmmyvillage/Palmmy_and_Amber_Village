@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class StairSound : MonoBehaviour {
-	
+
 	//set string for PlayerRigidBody Name
 	public String PlayerFootRigidBody;
 	

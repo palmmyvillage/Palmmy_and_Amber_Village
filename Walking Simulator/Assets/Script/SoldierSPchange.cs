@@ -9,8 +9,8 @@ public class SoldierSPchange : MonoBehaviour {
 	public Boolean Sprite01Checked = true;
 	
 	//Set Sprite01 and 02
-	public Material Sprite01;
-	public Material Sprite02;
+	public Sprite Sprite01;
+	public Sprite Sprite02;
 	
 	//Set timer for sprite change
 	private float SpriteTimer = 0.0f;
@@ -32,7 +32,7 @@ public class SoldierSPchange : MonoBehaviour {
 			//set timer limit to change sprite
 			if (SpriteTimer >= 0.5f)
 			{
-				gameObject.GetComponent<MeshRenderer>().material = Sprite02;
+				gameObject.GetComponent<SpriteRenderer>().sprite = Sprite02;
 				SpriteTimer = 0.0f;
 				Sprite01Checked = false;
 			} 
@@ -43,7 +43,7 @@ public class SoldierSPchange : MonoBehaviour {
 			//set timer limit to change sprite
 			if (SpriteTimer >= 0.5f)
 			{
-				gameObject.GetComponent<MeshRenderer>().material = Sprite01;
+				gameObject.GetComponent<SpriteRenderer>().sprite = Sprite01;
 				SpriteTimer = 0.0f;
 				Sprite01Checked = true;
 			} 

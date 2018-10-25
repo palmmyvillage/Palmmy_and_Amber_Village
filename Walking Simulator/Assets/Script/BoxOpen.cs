@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class BoxOpen : MonoBehaviour
 {
@@ -66,7 +67,7 @@ public class BoxOpen : MonoBehaviour
                 gameObject.GetComponent<DialogueBoxManager>().SoundIsPlaying = false;
 				
                 // check if give sword or shield
-                Equipment.SetActive(true);
+                Equipment.GetComponent<Image>().color = new Color(255,255,255,1f);
             }
         }
 

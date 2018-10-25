@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c598a49-9992-4d6a-bf17-7067e03be77a" name="Default Changelist" comment="" />
+    <list default="true" id="3c598a49-9992-4d6a-bf17-7067e03be77a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Palmmy_and_Amber_Village/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Palmmy_and_Amber_Village/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walking Simulator/Assets/Scenes/Palmmy_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Walking Simulator/Assets/Scenes/Palmmy_Scene.unity" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +68,28 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+          <entry key="meta" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="23" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FavoritesManager">
@@ -97,8 +122,30 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script.meta">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/StairSound.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-376" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/SpriteLook.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/FaceTarget.cs.meta">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/FaceTarget.cs">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -109,7 +156,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Walking Simulator/Assets/First Person Drifter Controller/Scripts/LockMouse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/FaceTarget.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/DoorOpener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/SpriteLook.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/StairSound.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Walking Simulator/Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -236,11 +286,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539216014635</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Palmmy Changes">
+      <created>1540493330226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540493330227</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7751000" />
+    <option name="totallyTimeSpent" value="8163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,7 +309,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="832" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="832" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6702997" visible="true" weight="0.26824033" />
       <window_info id="Structure" order="1" sideWeight="0.32970026" side_tool="true" visible="true" weight="0.26824033" />
@@ -266,11 +323,11 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993007" weight="0.32885906" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4993007" weight="0.32885906" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.42846924" visible="true" weight="0.50405407" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.42846924" visible="true" weight="0.50405407" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.4993007" weight="0.32885906" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4993007" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="13" sideWeight="0.57153076" side_tool="true" visible="true" weight="0.50405407" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.57153076" side_tool="true" visible="true" weight="0.50405407" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -317,7 +374,8 @@
     <MESSAGE value="Amber add a block" />
     <MESSAGE value="Amber add an Amber scene" />
     <MESSAGE value="Amber rename Amber_Scene" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amber rename Amber_Scene" />
+    <MESSAGE value="Palmmy Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palmmy Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -348,5 +406,22 @@
     <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Scripts/Manager.cs" />
     <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Scripts/ButtonNavigation.cs" />
     <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Scripts/Billboard.cs" />
+    <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/StairSound.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/SpriteLook.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/FaceTarget.cs.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Walking Simulator/Assets/Script/FaceTarget.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

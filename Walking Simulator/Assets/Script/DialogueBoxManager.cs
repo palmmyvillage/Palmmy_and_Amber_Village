@@ -40,6 +40,9 @@ public class DialogueBoxManager : MonoBehaviour {
 	// if Object is NPC, use this sound
 	private AudioSource TalkingSound;
 	
+	// set var for first line to be scrolling
+	private Boolean FirstTime;
+	
 	// Use this for initialization
 	void Start ()
 	{	
@@ -63,97 +66,112 @@ public class DialogueBoxManager : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update ()
+	void Update()
 	{
-		theText.text = DialogueLine[currentLine];
+		if (FirstTime == true)
+		{
+			StartCoroutine(TextScroll(DialogueLine[currentLine]));
+			FirstTime = false;
+		}
+
+		//theText.text = DialogueLine[currentLine];
 
 		// Check if its a treassure case and sound no end
-		if (SoundIsPlaying == false)
+		else
 		{
-			// Check if Collision with player happen or not
-			if (Input.GetMouseButtonDown(0))
+			if (SoundIsPlaying == false)
 			{
-				currentLine += 1;
-
-				// if the object is NPC, play talking sound everytime press button
-				if (gameObject.tag == "NPC")
+				// Check if Collision with player happen or not
+				if (Input.GetMouseButtonDown(0))
 				{
-					TalkingSound.Play(0);
+					//currentLine += 1;
+
+					// if the object is NPC, play talking sound everytime press button
+					if (gameObject.tag == "NPC")
+					{
+						TalkingSound.Play(0);
+					}
+
+
+					if (isTyping == false)
+					{
+						//change line when mouse buttoon down (left)
+						currentLine += 1;
+
+						// deactivate dialogue boz after finish dialogue
+						if (currentLine > endAtLine)
+						{
+							Player_Controller.enabled = true;
+							Player.GetComponent<MouseLook>().enabled = true;
+
+							DialogueBox.SetActive(false);
+							gameObject.GetComponent<DialogueBoxManager>().enabled = false;
+							currentLine = newLine;
+						}
+						else
+						{
+							StartCoroutine(TextScroll(DialogueLine[currentLine]));
+						}
+					}
+					else if (isTyping && !cancelTyping)
+					{
+						cancelTyping = true;
+					}
 				}
-				
-				
-				//if (isTyping == false)
-				//{
-				// change line when mouse buttoon down (left)
-				//	currentLine += 1;
 
-				// deactivate dialogue boz after finish dialogue
-				//	if (currentLine > endAtLine)
-				//	{
-				//		Player_Controller.enabled = true;
-				//		Player.GetComponent<MouseLook>().enabled = true;
-
-				//		DialogueBox.SetActive(false);
-				//		gameObject.GetComponent<DialogueBoxManager>().enabled = false;
-				//		currentLine = newLine;
-				//	}
-				//	else
-				//	{
-				//		StartCoroutine(TextScroll(DialogueLine[currentLine]));
-				//	}
-				//}
-				//else if (isTyping && !cancelTyping)
-				//{
-				//	cancelTyping = true;
-				//}
-			}
-
-			if (currentLine > endAtLine)
-			{
-				Player_Controller.enabled = true;
-				Player.GetComponent<MouseLook>().enabled = true;
-
-				DialogueBox.SetActive(false);
-				gameObject.GetComponent<DialogueBoxManager>().enabled = false;
-				currentLine = newLine;
-
-				// if the object is dialogue box then delete the colliderchecker
-				if (gameObject.tag == "Tressure Box")
+				if (currentLine > endAtLine)
 				{
-					gameObject.GetComponent<CheckColforDia>().enabled = false;
+					Player_Controller.enabled = true;
+					Player.GetComponent<MouseLook>().enabled = true;
+
+					DialogueBox.SetActive(false);
+					gameObject.GetComponent<DialogueBoxManager>().enabled = false;
+					currentLine = newLine;
+
+					// if the object is dialogue box then delete the colliderchecker
+					if (gameObject.tag == "Tressure Box")
+					{
+						gameObject.GetComponent<CheckColforDia>().enabled = false;
+					}
 				}
 			}
 		}
+	}
 
-		// set funtion to play text one by one letter
-	//private IEnumerator TextScroll(string LineofText)
-	//{
-	//	int letter = 0;
-	//	theText.text = "";
-	//	isTyping = true;
-	//	cancelTyping = false;
-	//	while (isTyping && !cancelTyping && (letter < LineofText.Length - 1))
-	//	{
-	//		theText.text += LineofText[letter];
-	//		letter += 1;
-	//		yield return new WaitForSeconds(typespeed);
-	//	}
-	//	theText.text = LineofText;
-	//	isTyping = false;
-	//	cancelTyping = false;
+	// set funtion to play text one by one letter
+	private IEnumerator TextScroll(string LineofText)
+	{
+		int letter = 0;
+		theText.text = "";
+		isTyping = true;
+		cancelTyping = false;
+		while (isTyping && !cancelTyping && (letter < LineofText.Length - 1))
+		{
+			theText.text += LineofText[letter];
+			letter += 1;
+			if (gameObject.tag != "Tressure Box")
+			{
+				TalkingSound.Play();	
+			}
+			yield return new WaitForSeconds(typespeed);
+		}
+		theText.text = LineofText;
+		isTyping = false;
+		cancelTyping = false;
+		FirstTime = false;
 	}
 	
 	//set for when enable player no move
 	private void OnEnable()
 	{	
+		// set firsttime to be true
+		FirstTime = true;
+		
 		//player no move
 		Player_Controller.enabled = false;
 		Player.GetComponent<MouseLook>().enabled = false;
 		
 		//DiablogueBox Come
 		DialogueBox.SetActive(true);
-		
-		
 	}
-
 }

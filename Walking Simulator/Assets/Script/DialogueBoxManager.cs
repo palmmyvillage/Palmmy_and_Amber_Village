@@ -32,7 +32,7 @@ public class DialogueBoxManager : MonoBehaviour {
 	// set var for typing
 	private Boolean isTyping = false;
 	private Boolean cancelTyping = false;
-	public float typespeed;
+	public float Typespeed;
 	
 	// set var for tressure chest sound case
 	public Boolean SoundIsPlaying;
@@ -87,10 +87,10 @@ public class DialogueBoxManager : MonoBehaviour {
 					//currentLine += 1;
 
 					// if the object is NPC, play talking sound everytime press button
-					if (gameObject.tag == "NPC")
-					{
-						TalkingSound.Play(0);
-					}
+					//if (gameObject.tag == "NPC")
+					//{
+					//	TalkingSound.Play(0);
+					//}
 
 
 					if (isTyping == false)
@@ -153,7 +153,7 @@ public class DialogueBoxManager : MonoBehaviour {
 			{
 				TalkingSound.Play();	
 			}
-			yield return new WaitForSeconds(typespeed);
+			yield return new WaitForSeconds(Typespeed);
 		}
 		theText.text = LineofText;
 		isTyping = false;

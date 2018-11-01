@@ -20,6 +20,7 @@ public class BoxOpen : MonoBehaviour
 	
     // set timelimit for open and get item
     private Boolean soundOpenPlay;
+    private Boolean Pause;
 	
     //set controller so that when talk player staystill
     public CharacterController Player_Controller;
@@ -35,12 +36,12 @@ public class BoxOpen : MonoBehaviour
         Touching = false;
         GetitemSound = GetComponent<AudioSource>();
         soundOpenPlay = false;
+        Pause = true;
     }
 	
     // Update is called once per frame
     void Update ()
     {
-
         if (Touching == true)
         {
             if (Input.GetMouseButtonDown(0))
@@ -59,7 +60,7 @@ public class BoxOpen : MonoBehaviour
         }
 		
 
-        if (soundOpenPlay == true)
+        if (soundOpenPlay == true && Pause == true)
         {
             if (GetitemSound.isPlaying == false)
             {
@@ -68,6 +69,7 @@ public class BoxOpen : MonoBehaviour
 				
                 // check if give sword or shield
                 Equipment.GetComponent<Image>().color = new Color(255,255,255,1f);
+                Pause = false;
             }
         }
 

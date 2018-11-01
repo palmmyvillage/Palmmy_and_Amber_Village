@@ -29,6 +29,10 @@ public class BoxOpen : MonoBehaviour
 	
     //set var for item give
     public GameObject Equipment;
+    
+    //stop sword and shield
+    private GameObject Sword;
+    private GameObject Shield;
 	
     // Use this for initialization
     void Start ()
@@ -37,6 +41,9 @@ public class BoxOpen : MonoBehaviour
         GetitemSound = GetComponent<AudioSource>();
         soundOpenPlay = false;
         Pause = true;
+        
+        Sword =  GameObject.Find("Sword");
+        Shield = GameObject.Find("Shield");
     }
 	
     // Update is called once per frame
@@ -55,6 +62,10 @@ public class BoxOpen : MonoBehaviour
                     gameObject.GetComponent<DialogueBoxManager>().SoundIsPlaying = true;
                     GetitemSound.Play(0);
                     soundOpenPlay = true;
+                    
+                    // set sword and shield to stop animating
+                    Sword.GetComponent<EQsprite>().enabled = false;
+                    Shield.GetComponent<EQsprite>().enabled = false;
                 }
             }
         }
@@ -66,6 +77,9 @@ public class BoxOpen : MonoBehaviour
             {
                 Player.GetComponent<AudioSource>().UnPause();
                 gameObject.GetComponent<DialogueBoxManager>().SoundIsPlaying = false;
+                
+                Sword.GetComponent<EQsprite>().enabled = true;
+                Shield.GetComponent<EQsprite>().enabled = true;
 				
                 // check if give sword or shield
                 Equipment.GetComponent<Image>().color = new Color(255,255,255,1f);

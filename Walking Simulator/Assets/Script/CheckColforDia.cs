@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.UIElements;
 
 public class CheckColforDia : MonoBehaviour {
 	
@@ -11,28 +12,38 @@ public class CheckColforDia : MonoBehaviour {
 	//set var boolean for checking collision stay
 	public Boolean TouchingPlayer;
 	
+	// set bool to check if it's box and opened
+	private Boolean BoxOpened;
+	
 	// if Object is NPC, use this sound
-	private AudioSource TalkingSound;
+	//private AudioSource TalkingSound;
 	
 	// Use this for initialization
 	void Start ()
 	{
+		BoxOpened = false;
 		// set sound effect to take from AudioSource
-		TalkingSound = GetComponent<AudioSource>();
+		//TalkingSound = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+	{
 
-		if (TouchingPlayer == true)
+		if (TouchingPlayer == true && BoxOpened == false) 
 		{
 			if (Input.GetMouseButtonDown(0))
 			{
 				if (gameObject.tag == "NPC")
 				{
-					TalkingSound.Play(0);
+					gameObject.GetComponent<DialogueBoxManager>().enabled = true;
 				}
-				gameObject.GetComponent<DialogueBoxManager>().enabled = true;
+
+				if (gameObject.tag == "Tressure Box")
+				{
+					gameObject.GetComponent<DialogueBoxManager>().enabled = true;
+					BoxOpened = true;
+				}
 			}
 		}
 	}

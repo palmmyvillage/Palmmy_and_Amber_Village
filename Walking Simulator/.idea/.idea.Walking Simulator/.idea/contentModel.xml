@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\dell\.Rider2018.2\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\dell\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\dell\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Walking Simulator.1619077440.00" t="ExcludeRecursive" />
-    <e p="D:\files\game studio\Palmmy_and_Amber_Village\Walking Simulator" t="IncludeRecursive">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Walking Simulator.-1203945763.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -217,6 +216,8 @@
           <e p="SoldierSPchange.cs" t="Include" />
           <e p="SpriteLook.cs" t="Include" />
           <e p="StairSound.cs" t="Include" />
+          <e p="TestforText.cs" t="Include" />
+          <e p="WalkingSound.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="FaceCamera.cs" t="Include" />

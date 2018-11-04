@@ -25,7 +25,7 @@ public class BoxOpen : MonoBehaviour
     //set controller so that when talk player staystill
     public CharacterController Player_Controller;
     //set player to find then to disable mouselook script
-    public GameObject Player;
+    public GameObject BGM;
 	
     //set var for item give
     public GameObject Equipment;
@@ -57,7 +57,7 @@ public class BoxOpen : MonoBehaviour
                 {
                     gameObject.GetComponent<SpriteRenderer>().sprite = BoxOpenedSP;
 				
-                    Player.GetComponent<AudioSource>().Pause();
+                    BGM.GetComponent<AudioSource>().Pause();
                     //	gameObject.GetComponent<CheckColforDia>().enabled = false;
                     gameObject.GetComponent<DialogueBoxManager>().SoundIsPlaying = true;
                     GetitemSound.Play(0);
@@ -75,7 +75,7 @@ public class BoxOpen : MonoBehaviour
         {
             if (GetitemSound.isPlaying == false)
             {
-                Player.GetComponent<AudioSource>().UnPause();
+                BGM.GetComponent<AudioSource>().UnPause();
                 gameObject.GetComponent<DialogueBoxManager>().SoundIsPlaying = false;
                 
                 Sword.GetComponent<EQsprite>().enabled = true;

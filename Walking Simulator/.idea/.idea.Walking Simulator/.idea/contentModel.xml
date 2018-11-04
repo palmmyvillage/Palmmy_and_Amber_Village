@@ -18,6 +18,20 @@
           <e p="Soldier Left.txt" t="Include" />
           <e p="Soldier Right.txt" t="Include" />
           <e p="Sword.txt" t="Include" />
+          <e p="Town-Boy.txt" t="Include" />
+          <e p="Town-Cat.txt" t="Include" />
+          <e p="Town-Dog.txt" t="Include" />
+          <e p="Town-Girl.txt" t="Include" />
+          <e p="Town-Man_1.txt" t="Include" />
+          <e p="Town-Man_2.txt" t="Include" />
+          <e p="Town-Man_3.txt" t="Include" />
+          <e p="Town-Man_4.txt" t="Include" />
+          <e p="Town-Man_5.txt" t="Include" />
+          <e p="Town-Soldier.txt" t="Include" />
+          <e p="Town-Twins.txt" t="Include" />
+          <e p="Town-Woman_1.txt" t="Include" />
+          <e p="Town-Woman_2.txt" t="Include" />
+          <e p="Town-Woman_3.txt" t="Include" />
         </e>
         <e p="First Person Drifter Controller" t="Include">
           <e p="info.txt" t="Include" />

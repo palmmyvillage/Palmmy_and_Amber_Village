@@ -32,6 +32,7 @@
           <e p="Town-Woman_1.txt" t="Include" />
           <e p="Town-Woman_2.txt" t="Include" />
           <e p="Town-Woman_3.txt" t="Include" />
+          <e p="Town-Woman_4.txt" t="Include" />
         </e>
         <e p="First Person Drifter Controller" t="Include">
           <e p="info.txt" t="Include" />

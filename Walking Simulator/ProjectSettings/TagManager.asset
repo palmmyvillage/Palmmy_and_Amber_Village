@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - NPC
+  - Tressure Box
   layers:
   - Default
   - TransparentFX
@@ -38,6 +40,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: TorchBar
+    uniqueID: 2962803603
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: FlreFlame
+    uniqueID: 1869608391
     locked: 0

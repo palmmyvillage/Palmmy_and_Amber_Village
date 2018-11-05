@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37c6fc29-5ebe-4da5-82c9-b371d521864f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/FootStep.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/FootStep.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dialogue/King.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Dialogue/King.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Palmmy_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Palmmy_Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/BoxOpen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/BoxOpen.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/WalkingSound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/WalkingSound.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,25 +102,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cs" value="21" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="21" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3201" />
-          <entry key="txt" value="157" />
+          <entry key="cs" value="4040" />
+          <entry key="txt" value="174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3201" />
-          <entry key="PLAIN_TEXT" value="157" />
+          <entry key="C#" value="4040" />
+          <entry key="PLAIN_TEXT" value="174" />
         </counts>
       </usages-collector>
     </session>
@@ -126,43 +130,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="51" />
+            <state relative-caret-position="1770">
+              <caret line="125" column="42" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
               <folding>
-                <marker date="1541282045826" expanded="false" signature="6:181" ph="..." />
-                <marker date="1541282045826" expanded="true" signature="231:4174" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="1120:1635" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="1307:1366" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="1586:1632" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="1688:3343" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="1716:1804" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="1808:1904" ph="/* theText.text = DialogueLine[currentLine]; ... */" />
-                <marker date="1541282045826" expanded="true" signature="1911:3340" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="1947:3336" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="2041:2867" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="2053:2229" ph="/* currentLine += 1; ... */" />
-                <marker date="1541282045826" expanded="true" signature="2259:2779" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="2432:2683" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="2694:2772" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="2820:2861" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="2901:3331" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="3246:3325" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="3442:3883" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="3599:3786" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="3699:3735" ph="{...}" />
-                <marker date="1541282045826" expanded="true" signature="3948:4172" ph="{...}" />
+                <marker date="1541380409231" expanded="false" signature="6:181" ph="..." />
+                <marker date="1541380409231" expanded="true" signature="231:4655" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="1277:1576" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="1629:3465" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="1657:1941" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="1945:2041" ph="/* theText.text = DialogueLine[currentLine]; ... */" />
+                <marker date="1541380409231" expanded="true" signature="2048:3462" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="2084:3458" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="2178:2989" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="2213:2901" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="2554:2805" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="2816:2894" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="2942:2983" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="3023:3453" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="3368:3447" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="3564:4005" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="3721:3908" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="3821:3857" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="4070:4653" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="4367:4431" ph="{...}" />
+                <marker date="1541380409231" expanded="true" signature="4548:4594" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/TestforText.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
+            <state relative-caret-position="495">
               <caret line="38" column="118" selection-start-line="38" selection-start-column="118" selection-end-line="38" selection-end-column="118" />
               <folding>
                 <marker date="1541283837978" expanded="false" signature="6:176" ph="..." />
@@ -182,7 +185,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Dialogue/King.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -193,6 +196,7 @@
             <state>
               <folding>
                 <marker date="1539986985159" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539986985159" expanded="true" signature="119:470" ph="{...}" />
                 <marker date="1539986985159" expanded="true" signature="231:276" ph="{...}" />
                 <marker date="1539986985159" expanded="true" signature="331:468" ph="{...}" />
               </folding>
@@ -201,24 +205,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/BoxOpen.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Soldier Left.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
-              <folding>
-                <marker date="1541173275477" expanded="false" signature="6:114" ph="..." />
-                <marker date="1541173275477" expanded="true" signature="947:1186" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="1246:2697" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="1282:2080" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="1337:2070" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="1395:2056" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="2136:2690" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="2195:2680" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="2780:2898" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="2843:2892" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="2993:3112" ph="{...}" />
-                <marker date="1541173275477" expanded="true" signature="3056:3106" ph="{...}" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -226,15 +216,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/WalkingSound.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="435">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
-                <marker date="1541281312387" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541281312387" expanded="true" signature="122:552" ph="{...}" />
-                <marker date="1541281312387" expanded="true" signature="215:267" ph="/* private Vector3 ... */" />
-                <marker date="1541281312387" expanded="true" signature="282:383" ph="{...}" />
-                <marker date="1541281312387" expanded="true" signature="438:550" ph="{...}" />
-                <marker date="1541281312387" expanded="true" signature="503:546" ph="{...}" />
+                <marker date="1541373371041" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541373371041" expanded="true" signature="122:753" ph="{...}" />
+                <marker date="1541373371041" expanded="true" signature="291:439" ph="{...}" />
+                <marker date="1541373371041" expanded="true" signature="494:751" ph="{...}" />
+                <marker date="1541373371041" expanded="true" signature="564:700" ph="{...}" />
+                <marker date="1541373371041" expanded="true" signature="601:696" ph="{...}" />
+                <marker date="1541373371041" expanded="true" signature="660:691" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -345,6 +336,7 @@
       <find>contact</find>
       <find>type</find>
       <find>lineof</find>
+      <find>dialogueLine</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -394,12 +386,13 @@
         <option value="$PROJECT_DIR$/Assets/Script/StairSound.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/EQsprite.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/CheckColforDia.cs" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/Soldier Left.txt" />
         <option value="$PROJECT_DIR$/Assets/Script/BoxOpen.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Walking Sound.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/WalkingSound.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/TestforText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/WalkingSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/King.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/Soldier Left.txt" />
+        <option value="$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs" />
       </list>
     </option>
   </component>
@@ -410,6 +403,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="6" />
     <option name="y" value="23" />
     <option name="width" value="1345" />
     <option name="height" value="835" />
@@ -442,6 +436,219 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/Amber_Town_Scene.unity</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Boy.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Boy.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Cat.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Cat.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Dog.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Dog.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Girl.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Girl.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_1.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_2.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_2.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_3.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_3.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_4.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_4.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_5.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Man_5.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Soldier.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Soldier.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Twins.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Twins.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_1.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_2.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_2.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_3.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_3.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_4.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Town-Woman_4.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave-Ground.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave-Ground.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave-Wall.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave-Wall.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/NPCs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/NPCs/npcs.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/NPCs/npcs.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Shopboard.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Shopboard.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Town-BrickWall.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Town-BrickWall.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Canvas.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Canvas.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/EventSystem.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/EventSystem.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bed.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bed.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Beidge(2).prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Beidge(2).prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bonsai.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bonsai.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bookshelf.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bookshelf.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bridge(1).prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Bridge(1).prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Column.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Column.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/DoorLeft.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/DoorLeft.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Pot.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Pot.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Table.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Table.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Tree.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Items/Tree.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/NPCs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/NPCs/Soldier Left.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/NPCs/Soldier Left.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Player.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Player.prefab.meta</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/BrickWall(Town).mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/BrickWall(Town).mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave Ground.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave Ground.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave Wall.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave Wall.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bed.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bed.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Beidge(2).prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Beidge(2).prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bonsai.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bonsai.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bookshelf.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bookshelf.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bridge(1).prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Bridge(1).prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Column.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Column.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/DoorLeft.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/DoorLeft.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/PinkGirl.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/PinkGirl.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Pot.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Pot.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Table.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Table.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Tree.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Prefab/Tree.prefab.meta</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -501,7 +708,7 @@
       <workItem from="1540925872184" duration="5144000" />
       <workItem from="1541096337997" duration="299000" />
       <workItem from="1541172897212" duration="5039000" />
-      <workItem from="1541283956280" duration="324000" />
+      <workItem from="1541283956280" duration="7065000" />
     </task>
     <task id="LOCAL-00001" summary="Amber update Menu UI in Amber_Scene.&#10;Amber add a 'pixelation' tool.(Never mind)">
       <created>1539318569148</created>
@@ -580,11 +787,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541105828050</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Palmmy Check In Update">
+      <created>1541371741500</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1541371741500</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47293000" />
+    <option name="totallyTimeSpent" value="54034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -596,21 +810,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1345" height="835" extended-state="0" />
+    <frame x="6" y="23" width="1345" height="835" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21028396" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.21028396" />
+      <window_info id="Structure" order="1" sideWeight="0.5009597" side_tool="true" visible="true" weight="0.21028396" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010309" side_tool="true" weight="0.21028396" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.34724092" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.34724092" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4992658" weight="0.2987887" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4992658" visible="true" weight="0.2987887" />
       <window_info anchor="bottom" id="Unity" order="10" weight="0.32839838" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32839838" />
@@ -752,13 +967,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Script/FaceTarget.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Soldier Left.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Soldier Right.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -770,87 +978,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Walking Sound.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="51" />
-          <folding>
-            <marker date="1541282045826" expanded="false" signature="6:181" ph="..." />
-            <marker date="1541282045826" expanded="true" signature="231:4174" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="1120:1635" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="1307:1366" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="1586:1632" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="1688:3343" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="1716:1804" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="1808:1904" ph="/* theText.text = DialogueLine[currentLine]; ... */" />
-            <marker date="1541282045826" expanded="true" signature="1911:3340" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="1947:3336" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="2041:2867" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="2053:2229" ph="/* currentLine += 1; ... */" />
-            <marker date="1541282045826" expanded="true" signature="2259:2779" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="2432:2683" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="2694:2772" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="2820:2861" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="2901:3331" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="3246:3325" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="3442:3883" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="3599:3786" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="3699:3735" ph="{...}" />
-            <marker date="1541282045826" expanded="true" signature="3948:4172" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/King.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/SpriteLook.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539986985159" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539986985159" expanded="true" signature="231:276" ph="{...}" />
-            <marker date="1539986985159" expanded="true" signature="331:468" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/BoxOpen.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
           <folding>
-            <marker date="1541173275477" expanded="false" signature="6:114" ph="..." />
-            <marker date="1541173275477" expanded="true" signature="947:1186" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="1246:2697" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="1282:2080" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="1337:2070" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="1395:2056" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="2136:2690" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="2195:2680" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="2780:2898" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="2843:2892" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="2993:3112" ph="{...}" />
-            <marker date="1541173275477" expanded="true" signature="3056:3106" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/WalkingSound.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <marker date="1541281312387" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541281312387" expanded="true" signature="122:552" ph="{...}" />
-            <marker date="1541281312387" expanded="true" signature="215:267" ph="/* private Vector3 ... */" />
-            <marker date="1541281312387" expanded="true" signature="282:383" ph="{...}" />
-            <marker date="1541281312387" expanded="true" signature="438:550" ph="{...}" />
-            <marker date="1541281312387" expanded="true" signature="503:546" ph="{...}" />
+            <marker date="1541371709304" expanded="false" signature="6:114" ph="..." />
+            <marker date="1541371709304" expanded="true" signature="947:1186" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="1246:2697" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="1282:2080" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="1337:2070" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="1395:2056" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="2136:2690" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="2195:2680" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="2780:2898" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="2843:2892" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="2993:3112" ph="{...}" />
+            <marker date="1541371709304" expanded="true" signature="3056:3106" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -943,9 +1087,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/WalkingSound.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <marker date="1541373371041" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541373371041" expanded="true" signature="122:753" ph="{...}" />
+            <marker date="1541373371041" expanded="true" signature="291:439" ph="{...}" />
+            <marker date="1541373371041" expanded="true" signature="494:751" ph="{...}" />
+            <marker date="1541373371041" expanded="true" signature="564:700" ph="{...}" />
+            <marker date="1541373371041" expanded="true" signature="601:696" ph="{...}" />
+            <marker date="1541373371041" expanded="true" signature="660:691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/King.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/SpriteLook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539986985159" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539986985159" expanded="true" signature="119:470" ph="{...}" />
+            <marker date="1539986985159" expanded="true" signature="231:276" ph="{...}" />
+            <marker date="1539986985159" expanded="true" signature="331:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Soldier Left.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/TestforText.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
+        <state relative-caret-position="495">
           <caret line="38" column="118" selection-start-line="38" selection-start-column="118" selection-end-line="38" selection-end-column="118" />
           <folding>
             <marker date="1541283837978" expanded="false" signature="6:176" ph="..." />
@@ -956,6 +1142,36 @@
             <marker date="1541283837978" expanded="true" signature="1282:1532" ph="/* for all this to happen I write another script just to work as a collision and mouse click detector ... */" />
             <marker date="1541283837978" expanded="true" signature="1676:1705" ph="{...}" />
             <marker date="1541283837978" expanded="true" signature="1779:1849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="125" column="42" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
+          <folding>
+            <marker date="1541380409231" expanded="false" signature="6:181" ph="..." />
+            <marker date="1541380409231" expanded="true" signature="231:4655" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="1277:1576" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="1629:3465" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="1657:1941" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="1945:2041" ph="/* theText.text = DialogueLine[currentLine]; ... */" />
+            <marker date="1541380409231" expanded="true" signature="2048:3462" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="2084:3458" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="2178:2989" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="2213:2901" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="2554:2805" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="2816:2894" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="2942:2983" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="3023:3453" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="3368:3447" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="3564:4005" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="3721:3908" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="3821:3857" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="4070:4653" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="4367:4431" ph="{...}" />
+            <marker date="1541380409231" expanded="true" signature="4548:4594" ph="{...}" />
           </folding>
         </state>
       </provider>

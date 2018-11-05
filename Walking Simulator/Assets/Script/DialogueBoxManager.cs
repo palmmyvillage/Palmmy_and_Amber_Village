@@ -17,7 +17,10 @@ public class DialogueBoxManager : MonoBehaviour {
 	
 	//set var to store Dialogue
 	public TextAsset DialogueFile;
+	public TextAsset DialogueFileInUse;
+	
 	public string[] DialogueLine;
+	private String DialogueInUse;
 	
 	//set current and end line
 	public int currentLine;
@@ -43,26 +46,21 @@ public class DialogueBoxManager : MonoBehaviour {
 	// set var for first line to be scrolling
 	private Boolean FirstTime;
 	
+	//set Var for Character Name if their is any mention
+	private String CharacterName;
+	
 	// Use this for initialization
 	void Start ()
 	{	
 		// set sound effect to take from AudioSource
 		TalkingSound = GetComponent<AudioSource>();
 		
-		//set Dialogue to the file we want to use and split line
-		if (DialogueFile != null)
-		{
-			DialogueLine = (DialogueFile.text.Split('\n'));
-		}
-		
 		//set player to be PlayerContoller
 		Player_Controller = FindObjectOfType<CharacterController>();
-				
-		// set script to automatically set the end of line according to the length of text file
-		if (endAtLine == 0)
-		{
-			endAtLine = DialogueLine.Length-1;
-		}
+		
+		//set Character Name base on what player name them
+		CharacterName = "Palm";
+		//temporary
 	}
 	
 	// Update is called once per frame
@@ -70,6 +68,10 @@ public class DialogueBoxManager : MonoBehaviour {
 	{
 		if (FirstTime == true)
 		{
+			DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharacterName);
+			DialogueLine[currentLine] = DialogueInUse;
+			print(DialogueInUse);
+			print(DialogueLine[currentLine]);
 			StartCoroutine(TextScroll(DialogueLine[currentLine]));
 			FirstTime = false;
 		}
@@ -84,19 +86,14 @@ public class DialogueBoxManager : MonoBehaviour {
 				// Check if Collision with player happen or not
 				if (Input.GetMouseButtonDown(0))
 				{
-					//currentLine += 1;
-
-					// if the object is NPC, play talking sound everytime press button
-					//if (gameObject.tag == "NPC")
-					//{
-					//	TalkingSound.Play(0);
-					//}
-
 
 					if (isTyping == false)
 					{
 						//change line when mouse buttoon down (left)
 						currentLine += 1;
+						DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharacterName);
+						DialogueLine[currentLine] = DialogueInUse;
+						print(DialogueInUse);
 
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)
@@ -139,7 +136,7 @@ public class DialogueBoxManager : MonoBehaviour {
 	}
 
 	// set funtion to play text one by one letter
-	private IEnumerator TextScroll(string LineofText)
+	private IEnumerator TextScroll(String LineofText)
 	{
 		int letter = 0;
 		theText.text = "";
@@ -170,6 +167,20 @@ public class DialogueBoxManager : MonoBehaviour {
 		//player no move
 		Player_Controller.enabled = false;
 		Player.GetComponent<MouseLook>().enabled = false;
+
+		DialogueFileInUse = DialogueFile;
+		
+		//set Dialogue to the file we want to use and split line
+		if (DialogueFileInUse != null)
+		{
+			DialogueLine = (DialogueFileInUse.text.Split('\n'));
+		}
+				
+		// set script to automatically set the end of line according to the length of text file
+		if (endAtLine == 0)
+		{
+			endAtLine = DialogueLine.Length-1;
+		}
 		
 		//DiablogueBox Come
 		DialogueBox.SetActive(true);

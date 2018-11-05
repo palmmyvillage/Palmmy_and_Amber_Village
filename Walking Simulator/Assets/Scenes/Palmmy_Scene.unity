@@ -1762,6 +1762,7 @@ MonoBehaviour:
   DialogueBox: {fileID: 30817448}
   theText: {fileID: 1726664337}
   DialogueFile: {fileID: 4900000, guid: 5cefa2199a4f84324a3c51a5c83f8d35, type: 3}
+  DialogueFileInUse: {fileID: 0}
   DialogueLine: []
   currentLine: 0
   endAtLine: 0
@@ -1918,7 +1919,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 7be8f527c08f8416f8fa379458b40823, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.4
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3176,7 +3177,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh7630
+  m_Name: pb_Mesh7662
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -15529,7 +15530,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh15656
+  m_Name: pb_Mesh7430
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -15944,6 +15945,7 @@ MonoBehaviour:
   DialogueBox: {fileID: 30817448}
   theText: {fileID: 1726664337}
   DialogueFile: {fileID: 4900000, guid: edc80c1bba52042dca720f59965744c4, type: 3}
+  DialogueFileInUse: {fileID: 0}
   DialogueLine: []
   currentLine: 0
   endAtLine: 0
@@ -16179,7 +16181,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ab08a8876e639402499ca29e6df3c07a, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -16277,6 +16279,7 @@ MonoBehaviour:
   DialogueBox: {fileID: 30817448}
   theText: {fileID: 1726664337}
   DialogueFile: {fileID: 4900000, guid: 307c25c6a24e345338fca3ef3a3c20aa, type: 3}
+  DialogueFileInUse: {fileID: 0}
   DialogueLine: []
   currentLine: 0
   endAtLine: 0
@@ -28118,7 +28121,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh15920
+  m_Name: pb_Mesh7856
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -28400,6 +28403,7 @@ MonoBehaviour:
   DialogueBox: {fileID: 30817448}
   theText: {fileID: 1726664337}
   DialogueFile: {fileID: 4900000, guid: 28a4d7cfe4f77485eaae9d0d4a5f1929, type: 3}
+  DialogueFileInUse: {fileID: 0}
   DialogueLine: []
   currentLine: 0
   endAtLine: 0
@@ -28521,7 +28525,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh20720
+  m_Name: pb_Mesh7480
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -28874,7 +28878,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 086dcb2930f5947fd84d56b6ea92b563, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -29208,6 +29212,7 @@ MonoBehaviour:
   DialogueBox: {fileID: 30817448}
   theText: {fileID: 1726664337}
   DialogueFile: {fileID: 4900000, guid: eaf1d9ec8df5f44a5854cd7079eb97fd, type: 3}
+  DialogueFileInUse: {fileID: 0}
   DialogueLine: []
   currentLine: 0
   endAtLine: 0
@@ -29701,7 +29706,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ab08a8876e639402499ca29e6df3c07a, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -29799,6 +29804,7 @@ MonoBehaviour:
   DialogueBox: {fileID: 30817448}
   theText: {fileID: 1726664337}
   DialogueFile: {fileID: 4900000, guid: 11d1450187e7d403e97a73f4e569bd8d, type: 3}
+  DialogueFileInUse: {fileID: 0}
   DialogueLine: []
   currentLine: 0
   endAtLine: 0
@@ -30251,7 +30257,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ab08a8876e639402499ca29e6df3c07a, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -30349,6 +30355,7 @@ MonoBehaviour:
   DialogueBox: {fileID: 30817448}
   theText: {fileID: 1726664337}
   DialogueFile: {fileID: 4900000, guid: b4c5ec39833c84762b8c055c083857fc, type: 3}
+  DialogueFileInUse: {fileID: 0}
   DialogueLine: []
   currentLine: 0
   endAtLine: 0

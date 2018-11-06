@@ -32,6 +32,8 @@ TextureImporter:
     21300054: woman3_2
     21300056: Woman4_1
     21300058: Woman4_2
+    21300060: Wildfire_1
+    21300062: Wildfire_2
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -720,6 +722,46 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c83c68ec829a25347875fc5854367a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildfire_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93b5f0e0cb5427438f8c959cc6f6e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wildfire_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa2c7787a5e924eb09279579fc6549
       vertices: []
       indices: 
       edges: []

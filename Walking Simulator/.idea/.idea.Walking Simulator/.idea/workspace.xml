@@ -2,82 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37c6fc29-5ebe-4da5-82c9-b371d521864f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Cave-Wall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Cave-Wall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/BlueMountain.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/BlueMountain.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/BrownMoutain(Cave).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/BrownMoutain(Cave).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/BrownMoutain.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/BrownMoutain.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Box Opened.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Box Opened.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Box.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Box.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Brick Wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Brick Wall.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Carpet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Carpet.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Column.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Column.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Door Left.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Door Left.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Door Right.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Door Right.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Floor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Floor.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Glass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Glass.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Soldier sp1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Soldier sp1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Soldier sp3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Soldier sp3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1+2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1+2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1+2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1+2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-BloodPool.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-BloodPool.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-BrickWall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-BrickWall.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Bridge.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Bridge.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_6.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_7.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_8.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Grass_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Grass_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Grass_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Grass_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Sand.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Sand.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Skybox.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Skybox.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Table.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Table.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Tomb.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Tomb.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Tree.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Tree.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Torch-bar.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Torch-bar.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Torch-flame_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Torch-flame_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Torch-flame_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Torch-flame_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Torch-pureflame_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Torch-pureflame_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Torch-pureflame_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Torch-pureflame_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bed.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bed.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bonsai.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bonsai.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bookshelf.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bookshelf.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-BrickWall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-BrickWall.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bridge.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Bridge.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Castle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Castle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Floor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Floor.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Floor2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Floor2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-FloorBrick.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-FloorBrick.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Grass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Grass.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Grass2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Grass2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Innboard.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Innboard.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Pool.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Pool.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Pot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Pot.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Sand.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Sand.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Shopboard.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Shopboard.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Skybox.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Skybox.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Table.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Table.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Tree.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Tree.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Throne_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Throne_Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Village_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Village_Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Stair01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Stair01.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Stair02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Stair02.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,23 +62,25 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="167" />
-          <entry key="txt" value="190" />
+          <entry key="txt" value="1334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="167" />
-          <entry key="PLAIN_TEXT" value="190" />
+          <entry key="PLAIN_TEXT" value="1334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cs" value="8" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="8" />
+          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
     </session>
@@ -171,25 +98,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="74" />
+          <entry key="cs" value="62" />
           <entry key="txt" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="74" />
+          <entry key="C#" value="62" />
           <entry key="PLAIN_TEXT" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="13694" />
+          <entry key="cs" value="13203" />
           <entry key="txt" value="1043" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="13694" />
+          <entry key="C#" value="13203" />
           <entry key="PLAIN_TEXT" value="1043" />
         </counts>
       </usages-collector>
@@ -200,232 +127,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
-              <folding>
-                <marker date="1541492812455" expanded="false" signature="6:92" ph="..." />
-                <marker date="1541492812455" expanded="true" signature="141:2788" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="900:1357" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="1409:2786" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="1435:2105" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="1605:1635" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="1700:2101" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="1742:2096" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="2112:2782" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="2280:2309" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="2374:2778" ph="{...}" />
-                <marker date="1541492812455" expanded="true" signature="2416:2773" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/GotoCaveColi.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding>
-                <marker date="1541491796087" expanded="false" signature="6:92" ph="..." />
-                <marker date="1541491796087" expanded="true" signature="136:929" ph="{...}" />
-                <marker date="1541491796087" expanded="true" signature="348:355" ph="{...}" />
-                <marker date="1541491796087" expanded="true" signature="410:570" ph="{...}" />
-                <marker date="1541491796087" expanded="true" signature="446:566" ph="{...}" />
-                <marker date="1541491796087" expanded="true" signature="647:742" ph="{...}" />
-                <marker date="1541491796087" expanded="true" signature="701:739" ph="{...}" />
-                <marker date="1541491796087" expanded="true" signature="831:927" ph="{...}" />
-                <marker date="1541491796087" expanded="true" signature="885:924" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/GoToCaveDialogue.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2436">
-              <caret line="196" column="41" selection-start-line="196" selection-start-column="41" selection-end-line="196" selection-end-column="41" />
-              <folding>
-                <marker date="1541488550986" expanded="true" signature="6:114" ph="..." />
-                <marker date="1541488550986" expanded="true" signature="162:4589" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="1383:1711" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="1766:3215" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="1795:2017" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2025:3209" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2060:3205" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2154:2933" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2189:2845" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2502:2749" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2760:2838" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2886:2927" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="2967:3200" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="3317:3836" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="3478:3617" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="3747:3833" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="3901:4587" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="4198:4262" ph="{...}" />
-                <marker date="1541488550986" expanded="true" signature="4379:4425" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/GoToCaveChoice.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
-              <folding>
-                <marker date="1541492906100" expanded="true" signature="6:92" ph="..." />
-                <marker date="1541492906100" expanded="true" signature="138:2619" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="898:1355" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="1407:2617" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="1433:2036" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="1603:1633" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="1698:2032" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="1740:2027" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="2043:2613" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="2211:2240" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="2305:2609" ph="{...}" />
-                <marker date="1541492906100" expanded="true" signature="2347:2604" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/MoveToCave.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <marker date="1541492135899" expanded="true" signature="6:113" ph="..." />
-                <marker date="1541492135899" expanded="true" signature="155:378" ph="{...}" />
-                <marker date="1541492135899" expanded="true" signature="205:212" ph="{...}" />
-                <marker date="1541492135899" expanded="true" signature="267:274" ph="{...}" />
-                <marker date="1541492135899" expanded="true" signature="330:376" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/ForLogo/StartButton.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-485">
-              <folding>
-                <marker date="1541406908718" expanded="false" signature="6:146" ph="..." />
-                <marker date="1541406908718" expanded="true" signature="189:1368" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="581:695" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="749:1366" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="787:838" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="864:1363" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="973:1297" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="1002:1143" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="1152:1292" ph="{...}" />
-                <marker date="1541406908718" expanded="true" signature="1317:1359" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/ForLogo/SoundFadeIn.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-              <folding>
-                <marker date="1541406260489" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541406260489" expanded="true" signature="121:499" ph="{...}" />
-                <marker date="1541406260489" expanded="true" signature="282:340" ph="{...}" />
-                <marker date="1541406260489" expanded="true" signature="394:497" ph="{...}" />
-                <marker date="1541406260489" expanded="true" signature="458:494" ph="{...}" />
-              </folding>
+            <state>
+              <caret column="39" selection-start-column="39" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_2.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
-              <folding>
-                <marker date="1541476400753" expanded="false" signature="6:181" ph="..." />
-                <marker date="1541476400753" expanded="true" signature="231:4926" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="1272:1585" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="1638:3736" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="1666:1945" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="1949:2045" ph="/* theText.text = DialogueLine[currentLine]; ... */" />
-                <marker date="1541476400753" expanded="true" signature="2052:3733" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="2088:3729" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="2182:3130" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="2217:3042" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="2553:2946" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="2599:2695" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="2957:3035" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="3083:3124" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="3164:3724" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="3206:3294" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="3639:3718" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="3835:4276" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="3992:4179" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="4092:4128" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="4341:4924" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="4638:4702" ph="{...}" />
-                <marker date="1541476400753" expanded="true" signature="4819:4865" ph="{...}" />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/StairCallForChoice.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_3.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="41" />
-              <folding>
-                <marker date="1541471809696" expanded="false" signature="6:100" ph="..." />
-                <marker date="1541471809696" expanded="true" signature="150:613" ph="{...}" />
-                <marker date="1541471809696" expanded="true" signature="361:367" ph="{...}" />
-                <marker date="1541471809696" expanded="true" signature="422:429" ph="{...}" />
-                <marker date="1541471809696" expanded="true" signature="470:611" ph="{...}" />
-              </folding>
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/StairDialogueManager.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_5.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-527">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-              <folding>
-                <marker date="1541488366426" expanded="false" signature="6:114" ph="..." />
-                <marker date="1541488366426" expanded="true" signature="166:4668" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="1300:1625" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="1680:3189" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="1709:1956" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="1964:3183" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="1999:3179" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="2093:2902" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="2128:2814" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="2461:2713" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="2724:2807" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="2855:2896" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="2936:3174" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="3289:3856" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="3455:3599" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="3722:3853" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="3758:3849" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="3921:4666" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="4233:4307" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="4424:4475" ph="{...}" />
-                <marker date="1541488366426" expanded="true" signature="4557:4635" ph="{...}" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_3.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_4.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Twins.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -446,59 +229,57 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/CallVillageFunction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/ActivateChoices.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/FaceTarget.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/StairCallForChoice.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/BackToCastleColi.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/Palmmy_and_Amber_Village/Walking Simulator/Assets/Script/DoorOpener.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/EQsprite.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FaceTarget_Amber.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/StairDialogueManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/GotoCaveColi.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/SoundFadeIn.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/GoToCaveDialogue.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/BlkackPlaneAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/PlaneWhiteCall.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/MainToThron.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/GoToCaveChoice.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/Palmmy_and_Amber_Village/Walking Simulator/Assets/Script/StairSound.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/BoxOpen.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/DoorOpener.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/SoldierSPchange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/CharacterStartUp.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/CheckEnable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/LogoAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/MovingChoice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/DialogueBoxForMenu.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/MoveToCave.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/AmberPalmmyStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/MainToThron.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FaceTarget_Amber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/BlkackPlaneAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/CheckEnable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/Palmmy_and_Amber_Village/Walking Simulator/Assets/Script/BoxOpen.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ProCore/ProGrids/Editor/pg_Editor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/ActivateNaming.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/Control.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/DoorOpenerSingle_Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SpriteLookForFlame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StairCallForChoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/LocationName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/NameStorage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/First Person Drifter Controller/Scripts/Optional/HeadBob.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/TestforText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SpriteLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StairDialogueManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StairSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/FaceTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CharacterStartUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/StartButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CallVillageFunction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CheckColforDia.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/First Person Drifter Controller/Scripts/Optional/CheckIfBelowLevel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/MovingBackGround.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/WalkingSound.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/StartButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/LocationName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/EQsprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SoldierSPchange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/DoorOpener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/BoxOpen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/SoundFadeIn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/First Person Drifter Controller/Scripts/Optional/HeadBob.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/PlayBGSong.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/SpriteLook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/LogoAnimation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/StairSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/ActivateChoices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ProCore/ProGrids/Editor/pg_Editor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/TestforText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/WalkingSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/ActivateNaming.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/PlaneWhiteCall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/AmberPalmmyStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ForLogo/MovingBackGround.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Script/ForLogo/BlkackPlaneAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/Counselor.txt" />
+        <option value="$PROJECT_DIR$/Assets/Script/ForLogo/CheckEnable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/NamingMenu.txt" />
         <option value="$PROJECT_DIR$/Assets/Script/ForLogo/ActivateNaming.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ForLogo/ActivateChoices.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ForLogo/DialogueBoxForMenu.cs" />
@@ -508,26 +289,16 @@
         <option value="$PROJECT_DIR$/Assets/Script/LocationName.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/CharacterStartUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/King.txt" />
+        <option value="$PROJECT_DIR$/Assets/Script/StairCallForChoice.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/StairSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StairDialogueManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/CallVillageFunction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/NameStorage.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/BoxOpen.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Sword.txt" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Shield.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Boy.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Cat.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Girl.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_1.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_2.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_3.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_4.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_5.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Soldier.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Twins.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_1.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_2.txt" />
-        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_3.txt" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Town-Boy.txt" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Town-Cat.txt" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Town-Dog.txt" />
@@ -542,14 +313,20 @@
         <option value="$PROJECT_DIR$/Assets/Dialogue/Town-Woman_1.txt" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Town-Woman_2.txt" />
         <option value="$PROJECT_DIR$/Assets/Dialogue/Town-Woman_3.txt" />
-        <option value="$PROJECT_DIR$/Assets/Script/BackToCastleColi.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/StairCallForChoice.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/StairDialogueManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/GoToCaveDialogue.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/GotoCaveColi.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/MoveToCave.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/GoToCaveChoice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Boy.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Cat.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Dog.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Soldier.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Girl.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_1.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_2.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_4.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Twins.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_3.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_2.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_3.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_5.txt" />
+        <option value="$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_1.txt" />
       </list>
     </option>
   </component>
@@ -560,9 +337,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="272" />
+    <option name="y" value="82" />
     <option name="width" value="1345" />
-    <option name="height" value="834" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -607,11 +385,78 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/NPCs/npcs-ruintown.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Cave-Wall.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/BlueMountain.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/BrownMoutain(Cave).png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/BrownMoutain.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Box Opened.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Box.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Brick Wall.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Carpet.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Column.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Door Left.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Door Right.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Floor.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Glass.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Soldier sp1.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Castle-Throne Room Soldier sp3.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1+2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1+2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-BloodPool.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-BrickWall.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Bridge.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_1.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_3.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_4.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_5.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_6.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_7.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-FloorBrick_8.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Grass_1.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Grass_2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Sand.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Skybox.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Table.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Tomb.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Tree.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Torch-bar.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Torch-flame_1.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Torch-flame_2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Torch-pureflame_1.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Torch-pureflame_2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Bed.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Bonsai.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Bookshelf.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-BrickWall.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Bridge.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Castle.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Floor.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Floor2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-FloorBrick.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Grass.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Grass2.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Innboard.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Pool.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Pot.png.meta</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Sand.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Shopboard.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Skybox.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Table.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Tree.png.meta</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/ProCore/ProBuilder/Data/ProBuilderPreferences.asset</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/Amber_RuinTown_Scene.unity</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/Amber_Town_Scene.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/Throne_Scene.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/Village_Scene.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -619,12 +464,34 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/RuinTown-Table.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/RuinTown-Table.mat.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Table.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Table.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Castle.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Town-Castle.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Animation/FadeInCave.anim</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Animation/FadeInCave.anim.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Animation/VillageToCave.controller</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Animation/VillageToCave.controller.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/BacktoCastle.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/BacktoCastle.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/GotoCave.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/GotoCave.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Stair01.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Stair01.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Stair02.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Dialogue/Stair02.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_2 new.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_2 new.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1+2 new.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Material/Texture/Cave-Wall_1+2 new.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/Cave_Scene.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/Cave_Scene.unity.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/BackToCastleColi.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/BackToCastleColi.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/GoToCaveChoice.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/GoToCaveChoice.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/GoToCaveDialogue.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/GoToCaveDialogue.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/GotoCaveColi.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/GotoCaveColi.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/MoveToCave.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/MoveToCave.cs.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -632,6 +499,10 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/Stair01.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/Stair01.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/Stair02.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Script/Stair02.txt.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -774,7 +645,7 @@
       <workItem from="1541283956280" duration="7485000" />
       <workItem from="1541390044524" duration="27019000" />
       <workItem from="1541461924915" duration="8024000" />
-      <workItem from="1541475103868" duration="10927000" />
+      <workItem from="1541475103868" duration="3687000" />
     </task>
     <task id="LOCAL-00001" summary="Amber update Menu UI in Amber_Scene.&#10;Amber add a 'pixelation' tool.(Never mind)">
       <created>1539318569148</created>
@@ -881,18 +752,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541475864912</updated>
     </task>
-    <task id="LOCAL-00016" summary="Palmmy Check In Update">
-      <created>1541481981923</created>
+    <task id="LOCAL-00016" summary="Amber adds new npc prefabs for cave.">
+      <created>1541488369786</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1541481981923</updated>
+      <updated>1541488369786</updated>
     </task>
     <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100424000" />
+    <option name="totallyTimeSpent" value="101661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -904,10 +775,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1345" height="834" extended-state="0" />
+    <frame x="218" y="66" width="1076" height="699" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49423078" visible="true" weight="0.21949348" />
-      <window_info id="Structure" order="1" sideWeight="0.50576925" side_tool="true" weight="0.21949348" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49423078" visible="true" weight="0.21807465" />
+      <window_info id="Structure" order="1" sideWeight="0.50576925" side_tool="true" visible="true" weight="0.21949348" />
       <window_info id="Favorites" order="2" sideWeight="0.5010309" side_tool="true" weight="0.21028396" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -922,8 +794,8 @@
       <window_info anchor="bottom" id="Unity" order="10" weight="0.32839838" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32839838" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32749325" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50345355" side_tool="true" weight="0.2991914" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32839838" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50345355" side_tool="true" visible="true" weight="0.2991914" />
       <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -932,33 +804,6 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49423078" visible="true" weight="0.21949348" />
-      <window_info id="Structure" order="1" sideWeight="0.50576925" side_tool="true" visible="true" weight="0.21949348" />
-      <window_info id="Favorites" order="2" sideWeight="0.5010309" side_tool="true" weight="0.21028396" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.34724092" />
-      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49654642" visible="true" weight="0.2991914" />
-      <window_info anchor="bottom" id="Unity" order="10" weight="0.32839838" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32839838" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32839838" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="14" sideWeight="0.50345355" side_tool="true" visible="true" weight="0.2991914" />
-      <window_info anchor="bottom" id="Messages" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3289941" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -976,7 +821,8 @@
     <MESSAGE value="Palmmy deal with sword and shield" />
     <MESSAGE value="Palmmy deal with dialogue and sound" />
     <MESSAGE value="Palmmy Check In Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palmmy Check In Update" />
+    <MESSAGE value="Amber adds new npc prefabs for cave." />
+    <option name="LAST_COMMIT_MESSAGE" value="Amber adds new npc prefabs for cave." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -989,6 +835,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ForLogo/MainToThron.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ForLogo/ActivateChoices.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/King.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1000,13 +863,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1541465931866" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541465931866" expanded="true" signature="126:619" ph="{...}" />
-            <marker date="1541465931866" expanded="true" signature="279:357" ph="{...}" />
-            <marker date="1541465931866" expanded="true" signature="411:617" ph="{...}" />
-            <marker date="1541465931866" expanded="true" signature="458:613" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/StairSound.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/StairDialogueManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="61" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -1014,13 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <marker date="1541474490326" expanded="false" signature="6:113" ph="..." />
-            <marker date="1541474490326" expanded="true" signature="164:378" ph="{...}" />
-            <marker date="1541474490326" expanded="true" signature="214:221" ph="{...}" />
-            <marker date="1541474490326" expanded="true" signature="276:283" ph="{...}" />
-            <marker date="1541474490326" expanded="true" signature="327:376" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,26 +891,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <marker date="1541476287117" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541476287117" expanded="true" signature="111:276" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/EQsprite.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <folding>
-            <marker date="1540501647933" expanded="false" signature="6:92" ph="..." />
-            <marker date="1540501647933" expanded="true" signature="132:1329" ph="{...}" />
-            <marker date="1540501647933" expanded="true" signature="454:460" ph="{...}" />
-            <marker date="1540501647933" expanded="true" signature="514:1327" ph="{...}" />
-            <marker date="1540501647933" expanded="true" signature="846:1061" ph="{...}" />
-            <marker date="1540501647933" expanded="true" signature="916:1056" ph="{...}" />
-            <marker date="1540501647933" expanded="true" signature="1109:1324" ph="{...}" />
-            <marker date="1540501647933" expanded="true" signature="1179:1315" ph="{...}" />
-          </folding>
+        <state relative-caret-position="-220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="133" column="60" selection-start-line="133" selection-start-column="60" selection-end-line="133" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -1055,25 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
-          <folding>
-            <marker date="1541477416701" expanded="false" signature="6:114" ph="..." />
-            <marker date="1541477416701" expanded="true" signature="152:3923" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="977:1258" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="1318:3506" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="1354:2152" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="1409:2142" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="1467:2128" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="2208:3499" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="2267:3489" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="2687:3222" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="2857:3007" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="3052:3204" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="3274:3408" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="3589:3707" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="3652:3701" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="3802:3921" ph="{...}" />
-            <marker date="1541477416701" expanded="true" signature="3865:3915" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1099,34 +935,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FaceCamera.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1540493059765" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540493059765" expanded="true" signature="120:233" ph="{...}" />
-            <marker date="1540493059765" expanded="true" signature="164:231" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Boy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="55" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Boy.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Cat.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1137,24 +951,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Dog.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Dog.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Girl.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1165,24 +965,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Man_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -1193,24 +979,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Man_3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -1221,38 +993,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Man_5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Soldier.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        <state relative-caret-position="60">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Soldier.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Twins.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="105">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_1.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Woman_1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="30" />
+        <state relative-caret-position="19">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_4.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Woman_2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="19">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1263,300 +1031,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_3.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/SpriteLook.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1540493387965" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540493387965" expanded="true" signature="231:276" ph="{...}" />
+            <marker date="1540493387965" expanded="true" signature="331:468" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Woman_2.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Boy.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        <state relative-caret-position="19">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/SpriteLookForFlame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <marker date="1541399282423" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541399282423" expanded="true" signature="128:480" ph="{...}" />
+            <marker date="1541399282423" expanded="true" signature="240:285" ph="{...}" />
+            <marker date="1541399282423" expanded="true" signature="340:478" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Cat.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/WalkingSound.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <marker date="1541382436966" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541382436966" expanded="true" signature="122:753" ph="{...}" />
+            <marker date="1541382436966" expanded="true" signature="291:439" ph="{...}" />
+            <marker date="1541382436966" expanded="true" signature="494:751" ph="{...}" />
+            <marker date="1541382436966" expanded="true" signature="564:700" ph="{...}" />
+            <marker date="1541382436966" expanded="true" signature="601:696" ph="{...}" />
+            <marker date="1541382436966" expanded="true" signature="660:691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Dog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/DoorOpenerSingle_Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="53" column="89" selection-start-line="53" selection-start-column="89" selection-end-line="53" selection-end-column="89" />
+          <folding>
+            <marker date="1541386529603" expanded="false" signature="6:92" ph="..." />
+            <marker date="1541386529603" expanded="true" signature="145:2291" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="918:1045" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="1106:1866" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="1141:1572" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="1196:1562" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="1603:1860" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="1665:1850" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="1949:2071" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="2012:2065" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="2166:2289" ph="{...}" />
+            <marker date="1541386529603" expanded="true" signature="2229:2283" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Soldier.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Woman_4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Girl.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CheckColforDia.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <marker date="1541100441679" expanded="false" signature="6:135" ph="..." />
+            <marker date="1541100441679" expanded="true" signature="181:1434" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="415:521" ph="/* if Object is NPC, use this sound ... */" />
+            <marker date="1541100441679" expanded="true" signature="536:658" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="563:655" ph="/* set sound effect to take from AudioSource ... */" />
+            <marker date="1541100441679" expanded="true" signature="712:1083" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="769:1080" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="809:1076" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="847:926" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="969:1071" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="1160:1251" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="1214:1248" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="1340:1432" ph="{...}" />
+            <marker date="1541100441679" expanded="true" signature="1394:1429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Twins.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="1" selection-end-column="38" />
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Woman_1.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Man_5.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        <state relative-caret-position="38">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Twins.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_3.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="19">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Twins.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Dialogue/Town-Soldier.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/StairSound.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="30" column="9" selection-start-line="29" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
-          <folding>
-            <marker date="1541471865321" expanded="false" signature="6:92" ph="..." />
-            <marker date="1541471865321" expanded="true" signature="134:1565" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="490:569" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="624:1208" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="654:1205" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="762:991" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="999:1165" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="1285:1379" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="1343:1376" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="1468:1563" ph="{...}" />
-            <marker date="1541471865321" expanded="true" signature="1526:1560" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/BackToCastleColi.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <marker date="1541486163004" expanded="true" signature="6:92" ph="..." />
-            <marker date="1541486163004" expanded="true" signature="140:930" ph="{...}" />
-            <marker date="1541486163004" expanded="true" signature="351:358" ph="{...}" />
-            <marker date="1541486163004" expanded="true" signature="413:573" ph="{...}" />
-            <marker date="1541486163004" expanded="true" signature="448:569" ph="{...}" />
-            <marker date="1541486163004" expanded="true" signature="650:744" ph="{...}" />
-            <marker date="1541486163004" expanded="true" signature="704:741" ph="{...}" />
-            <marker date="1541486163004" expanded="true" signature="833:928" ph="{...}" />
-            <marker date="1541486163004" expanded="true" signature="887:925" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/StairDialogueManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-527">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding>
-            <marker date="1541488366426" expanded="false" signature="6:114" ph="..." />
-            <marker date="1541488366426" expanded="true" signature="166:4668" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="1300:1625" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="1680:3189" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="1709:1956" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="1964:3183" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="1999:3179" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="2093:2902" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="2128:2814" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="2461:2713" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="2724:2807" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="2855:2896" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="2936:3174" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="3289:3856" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="3455:3599" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="3722:3853" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="3758:3849" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="3921:4666" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="4233:4307" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="4424:4475" ph="{...}" />
-            <marker date="1541488366426" expanded="true" signature="4557:4635" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/StairCallForChoice.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="41" />
-          <folding>
-            <marker date="1541471809696" expanded="false" signature="6:100" ph="..." />
-            <marker date="1541471809696" expanded="true" signature="150:613" ph="{...}" />
-            <marker date="1541471809696" expanded="true" signature="361:367" ph="{...}" />
-            <marker date="1541471809696" expanded="true" signature="422:429" ph="{...}" />
-            <marker date="1541471809696" expanded="true" signature="470:611" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/GoToCaveDialogue.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2436">
-          <caret line="196" column="41" selection-start-line="196" selection-start-column="41" selection-end-line="196" selection-end-column="41" />
-          <folding>
-            <marker date="1541488550986" expanded="true" signature="6:114" ph="..." />
-            <marker date="1541488550986" expanded="true" signature="162:4589" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="1383:1711" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="1766:3215" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="1795:2017" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2025:3209" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2060:3205" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2154:2933" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2189:2845" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2502:2749" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2760:2838" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2886:2927" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="2967:3200" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="3317:3836" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="3478:3617" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="3747:3833" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="3901:4587" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="4198:4262" ph="{...}" />
-            <marker date="1541488550986" expanded="true" signature="4379:4425" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/DialogueBoxManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
-          <folding>
-            <marker date="1541476400753" expanded="false" signature="6:181" ph="..." />
-            <marker date="1541476400753" expanded="true" signature="231:4926" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="1272:1585" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="1638:3736" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="1666:1945" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="1949:2045" ph="/* theText.text = DialogueLine[currentLine]; ... */" />
-            <marker date="1541476400753" expanded="true" signature="2052:3733" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="2088:3729" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="2182:3130" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="2217:3042" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="2553:2946" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="2599:2695" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="2957:3035" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="3083:3124" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="3164:3724" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="3206:3294" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="3639:3718" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="3835:4276" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="3992:4179" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="4092:4128" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="4341:4924" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="4638:4702" ph="{...}" />
-            <marker date="1541476400753" expanded="true" signature="4819:4865" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/GotoCaveColi.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <marker date="1541491796087" expanded="false" signature="6:92" ph="..." />
-            <marker date="1541491796087" expanded="true" signature="136:929" ph="{...}" />
-            <marker date="1541491796087" expanded="true" signature="348:355" ph="{...}" />
-            <marker date="1541491796087" expanded="true" signature="410:570" ph="{...}" />
-            <marker date="1541491796087" expanded="true" signature="446:566" ph="{...}" />
-            <marker date="1541491796087" expanded="true" signature="647:742" ph="{...}" />
-            <marker date="1541491796087" expanded="true" signature="701:739" ph="{...}" />
-            <marker date="1541491796087" expanded="true" signature="831:927" ph="{...}" />
-            <marker date="1541491796087" expanded="true" signature="885:924" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/MoveToCave.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <marker date="1541492135899" expanded="true" signature="6:113" ph="..." />
-            <marker date="1541492135899" expanded="true" signature="155:378" ph="{...}" />
-            <marker date="1541492135899" expanded="true" signature="205:212" ph="{...}" />
-            <marker date="1541492135899" expanded="true" signature="267:274" ph="{...}" />
-            <marker date="1541492135899" expanded="true" signature="330:376" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/ForLogo/StartButton.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-485">
-          <folding>
-            <marker date="1541406908718" expanded="false" signature="6:146" ph="..." />
-            <marker date="1541406908718" expanded="true" signature="189:1368" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="581:695" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="749:1366" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="787:838" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="864:1363" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="973:1297" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="1002:1143" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="1152:1292" ph="{...}" />
-            <marker date="1541406908718" expanded="true" signature="1317:1359" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/StairMovingChoice.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
-          <folding>
-            <marker date="1541492812455" expanded="false" signature="6:92" ph="..." />
-            <marker date="1541492812455" expanded="true" signature="141:2788" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="900:1357" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="1409:2786" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="1435:2105" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="1605:1635" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="1700:2101" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="1742:2096" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="2112:2782" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="2280:2309" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="2374:2778" ph="{...}" />
-            <marker date="1541492812455" expanded="true" signature="2416:2773" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/GoToCaveChoice.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
-          <folding>
-            <marker date="1541492906100" expanded="true" signature="6:92" ph="..." />
-            <marker date="1541492906100" expanded="true" signature="138:2619" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="898:1355" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="1407:2617" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="1433:2036" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="1603:1633" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="1698:2032" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="1740:2027" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="2043:2613" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="2211:2240" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="2305:2609" ph="{...}" />
-            <marker date="1541492906100" expanded="true" signature="2347:2604" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/ForLogo/SoundFadeIn.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <marker date="1541406260489" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541406260489" expanded="true" signature="121:499" ph="{...}" />
-            <marker date="1541406260489" expanded="true" signature="282:340" ph="{...}" />
-            <marker date="1541406260489" expanded="true" signature="394:497" ph="{...}" />
-            <marker date="1541406260489" expanded="true" signature="458:494" ph="{...}" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>

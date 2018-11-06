@@ -14,6 +14,21 @@
           <e p="120Gold.txt" t="Include" />
           <e p="Counselor.txt" t="Include" />
           <e p="King.txt" t="Include" />
+          <e p="RuinTown-Boy.txt" t="Include" />
+          <e p="RuinTown-Cat.txt" t="Include" />
+          <e p="RuinTown-Dog.txt" t="Include" />
+          <e p="RuinTown-Girl.txt" t="Include" />
+          <e p="RuinTown-Man_1.txt" t="Include" />
+          <e p="RuinTown-Man_2.txt" t="Include" />
+          <e p="RuinTown-Man_3.txt" t="Include" />
+          <e p="RuinTown-Man_4.txt" t="Include" />
+          <e p="RuinTown-Man_5.txt" t="Include" />
+          <e p="RuinTown-Soldier.txt" t="Include" />
+          <e p="RuinTown-Twins.txt" t="Include" />
+          <e p="RuinTown-Woman_1.txt" t="Include" />
+          <e p="RuinTown-Woman_2.txt" t="Include" />
+          <e p="RuinTown-Woman_3.txt" t="Include" />
+          <e p="RuinTown-Woman_4.txt" t="Include" />
           <e p="Shield.txt" t="Include" />
           <e p="Soldier Left.txt" t="Include" />
           <e p="Soldier Right.txt" t="Include" />
@@ -211,7 +226,6 @@
           <e p="CheckColforDia.cs" t="Include" />
           <e p="DialogueBoxManager.cs" t="Include" />
           <e p="DoorOpener.cs" t="Include" />
-          <e p="DoorOpenerSingle.cs" t="Include" />
           <e p="DoorOpenerSingle_Test.cs" t="Include" />
           <e p="EQsprite.cs" t="Include" />
           <e p="FaceTarget.cs" t="Include" />

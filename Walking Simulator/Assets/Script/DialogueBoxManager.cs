@@ -98,6 +98,12 @@ public class DialogueBoxManager : MonoBehaviour {
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)
 						{
+							if (gameObject.name == "King")
+							{
+								NameStorage.TalkToKing = true;
+								print(NameStorage.TalkToKing);
+							}
+							
 							Player_Controller.enabled = true;
 							Player.GetComponent<MouseLook>().enabled = true;
 
@@ -118,6 +124,12 @@ public class DialogueBoxManager : MonoBehaviour {
 
 				if (currentLine > endAtLine)
 				{
+					if (gameObject.name == "King")
+					{
+						NameStorage.TalkToKing = true;
+						print(NameStorage.TalkToKing);
+					}
+					
 					Player_Controller.enabled = true;
 					Player.GetComponent<MouseLook>().enabled = true;
 

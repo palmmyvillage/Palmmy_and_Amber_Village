@@ -33,6 +33,7 @@ public class BoxOpen : MonoBehaviour
     //stop sword and shield
     private GameObject Sword;
     private GameObject Shield;
+    private GameObject Money;
 	
     // Use this for initialization
     void Start ()
@@ -44,6 +45,7 @@ public class BoxOpen : MonoBehaviour
         
         Sword =  GameObject.Find("Sword");
         Shield = GameObject.Find("Shield");
+        Money = GameObject.Find("Money");
     }
 	
     // Update is called once per frame
@@ -82,7 +84,30 @@ public class BoxOpen : MonoBehaviour
                 Shield.GetComponent<EQsprite>().enabled = true;
 				
                 // check if give sword or shield
-                Equipment.GetComponent<Image>().color = new Color(255,255,255,1f);
+                if (Equipment == Sword || Equipment == Shield)
+                {
+                    Equipment.GetComponent<Image>().color = new Color(255,255,255,1f);
+                    
+                    if (Equipment == Sword)
+                    {
+                        NameStorage.GetSword = true;
+                        print(NameStorage.GetSword);
+                    }
+                    if (Equipment == Shield)
+                    {
+                        NameStorage.GetShield = true;
+                        print(NameStorage.GetShield);
+                    }
+                }
+           
+                if (Equipment == Money)
+                {
+                    NameStorage.GetMoney = true;
+                    print(NameStorage.GetMoney);
+                }
+                
+ 
+                
                 Pause = false;
             }
         }

@@ -1,31 +1,27 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Text;
-using System.Xml;
 using UnityEngine;
-using UnityEngine.Networking;
 using UnityEngine.UI;
 
-public class DialogueBoxManager : MonoBehaviour {
+public class StairDialogueManager : MonoBehaviour {
 	
 	//set var to save Dialgoue Box
-	public GameObject DialogueBox;
+	public GameObject StairDialogueBox;
 	
 	//set var to store Text
-	public Text theText;
+	public Text StairDialoguePos;
 	
 	//set var to store Dialogue
-	public TextAsset DialogueFile;
-	public TextAsset DialogueFileInUse;
+	public TextAsset StairDialogueFile;
+	public TextAsset StairDialogueFileInUse;
 	
-	public string[] DialogueLine;
-	private String DialogueInUse;
+	public string[] StairDialogueLine;
+	private string StairDialogueInUse;
 	
 	//set current and end line
-	public int currentLine;
-	public int endAtLine;
-	public int newLine;
+	private int currentLine;
+	private int endAtLine;
 	
 	//set controller so that when talk player staystill
 	public CharacterController Player_Controller;
@@ -37,17 +33,24 @@ public class DialogueBoxManager : MonoBehaviour {
 	private Boolean cancelTyping = false;
 	public float Typespeed;
 	
-	// set var for tressure chest sound case
-	public Boolean SoundIsPlaying;
-	
 	// if Object is NPC, use this sound
 	private AudioSource TalkingSound;
 	
 	// set var for first line to be scrolling
 	private Boolean FirstTime;
 	
-	//set Var for Character Name if their is any mention
-	private String CharName;
+	// in case need character name
+	private string CharacterName;
+	
+	// set boolean to see if Quiz
+	public Boolean Quiz;
+	private int QuizLine;
+	private Boolean WaitForAnswer;
+	
+	// Get Object of QuizeBox
+	public GameObject QuizBox;
+	
+	
 	
 	// Use this for initialization
 	void Start ()
@@ -58,30 +61,27 @@ public class DialogueBoxManager : MonoBehaviour {
 		//set player to be PlayerContoller
 		Player_Controller = FindObjectOfType<CharacterController>();
 		
-		//set Character Name base on what player name them
-		CharName = NameStorage.CharacterName;
-		//temporary
+		// set CharacterName
+		CharacterName = NameStorage.CharacterName;
+		
+		// set Quiz to false
+		WaitForAnswer = false;
 	}
 	
 	// Update is called once per frame
-	void Update()
-	{
+	void Update () {
+		
 		if (FirstTime == true)
 		{
-			DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
-			DialogueLine[currentLine] = DialogueInUse;
-			print(DialogueInUse);
-			print(DialogueLine[currentLine]);
-			StartCoroutine(TextScroll(DialogueLine[currentLine]));
+			StairDialogueInUse = StairDialogueLine[currentLine].Replace("[CharacterName]", CharacterName);
+			StairDialogueLine[currentLine] = StairDialogueInUse;
+			StartCoroutine(TextScroll(StairDialogueLine[currentLine]));
 			FirstTime = false;
 		}
 
-		//theText.text = DialogueLine[currentLine];
-
-		// Check if its a treassure case and sound no end
 		else
 		{
-			if (SoundIsPlaying == false)
+			if (WaitForAnswer == false)
 			{
 				// Check if Collision with player happen or not
 				if (Input.GetMouseButtonDown(0))
@@ -91,9 +91,8 @@ public class DialogueBoxManager : MonoBehaviour {
 					{
 						//change line when mouse buttoon down (left)
 						currentLine += 1;
-						DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
-						DialogueLine[currentLine] = DialogueInUse;
-						print(DialogueInUse);
+						StairDialogueInUse = StairDialogueLine[currentLine].Replace("[CharacterName]", CharacterName);
+						StairDialogueLine[currentLine] = StairDialogueInUse;
 
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)
@@ -101,13 +100,13 @@ public class DialogueBoxManager : MonoBehaviour {
 							Player_Controller.enabled = true;
 							Player.GetComponent<MouseLook>().enabled = true;
 
-							DialogueBox.SetActive(false);
-							gameObject.GetComponent<DialogueBoxManager>().enabled = false;
-							currentLine = newLine;
+							StairDialogueBox.SetActive(false);
+							gameObject.GetComponent<StairDialogueManager>().enabled = false;
+							currentLine = 0;
 						}
 						else
 						{
-							StartCoroutine(TextScroll(DialogueLine[currentLine]));
+							StartCoroutine(TextScroll(StairDialogueLine[currentLine]));
 						}
 					}
 					else if (isTyping && !cancelTyping)
@@ -121,41 +120,42 @@ public class DialogueBoxManager : MonoBehaviour {
 					Player_Controller.enabled = true;
 					Player.GetComponent<MouseLook>().enabled = true;
 
-					DialogueBox.SetActive(false);
-					gameObject.GetComponent<DialogueBoxManager>().enabled = false;
-					currentLine = newLine;
-
-					// if the object is dialogue box then delete the colliderchecker
-					if (gameObject.tag == "Tressure Box")
-					{
-						gameObject.GetComponent<CheckColforDia>().enabled = false;
-					}
+					StairDialogueBox.SetActive(false);
+					gameObject.GetComponent<StairDialogueManager>().enabled = false;
+					currentLine = 0;
 				}
 			}
 		}
+		
 	}
-
+	
 	// set funtion to play text one by one letter
 	private IEnumerator TextScroll(String LineofText)
 	{
 		int letter = 0;
-		theText.text = "";
+		StairDialoguePos.text = "";
 		isTyping = true;
 		cancelTyping = false;
 		while (isTyping && !cancelTyping && (letter < LineofText.Length - 1))
 		{
-			theText.text += LineofText[letter];
+			StairDialoguePos.text += LineofText[letter];
 			letter += 1;
-			if (gameObject.tag != "Tressure Box")
-			{
-				TalkingSound.Play();	
-			}
+			TalkingSound.Play();	
 			yield return new WaitForSeconds(Typespeed);
 		}
-		theText.text = LineofText;
+		StairDialoguePos.text = LineofText;
 		isTyping = false;
 		cancelTyping = false;
 		FirstTime = false;
+		if (Quiz == true)
+		{
+			if (currentLine == QuizLine)
+			{
+				QuizBox.SetActive(true);
+				WaitForAnswer = true;
+				print(WaitForAnswer);
+			}
+		}
 	}
 	
 	//set for when enable player no move
@@ -168,21 +168,28 @@ public class DialogueBoxManager : MonoBehaviour {
 		Player_Controller.enabled = false;
 		Player.GetComponent<MouseLook>().enabled = false;
 
-		DialogueFileInUse = DialogueFile;
+		StairDialogueFileInUse = StairDialogueFile;
 		
 		//set Dialogue to the file we want to use and split line
-		if (DialogueFileInUse != null)
+		if (StairDialogueFileInUse != null)
 		{
-			DialogueLine = (DialogueFileInUse.text.Split('\n'));
+			StairDialogueLine = (StairDialogueFileInUse.text.Split('\n'));
 		}
 				
 		// set script to automatically set the end of line according to the length of text file
 		if (endAtLine == 0)
 		{
-			endAtLine = DialogueLine.Length-1;
+			endAtLine = StairDialogueLine.Length-1;
 		}
 		
 		//DiablogueBox Come
-		DialogueBox.SetActive(true);
+		StairDialogueBox.SetActive(true);
+
+		if (Quiz == true)
+		{
+			QuizLine = gameObject.GetComponent<StairCallForChoice>().LineofQ;	
+		}
+		
+		WaitForAnswer = false;
 	}
 }

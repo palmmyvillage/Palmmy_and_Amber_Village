@@ -1,0 +1,6 @@
+Please tell us your name, Brave Warrior.
+*Use Keyboard to Type Your Name and Press 'Enter' to proceed.*
+Is this your name?
+Brave [CharacterName]...
+What a wonderful name.
+Now, your journey shall begin.

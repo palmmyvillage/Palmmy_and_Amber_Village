@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Text;
-using System.Xml;
 using UnityEngine;
-using UnityEngine.Networking;
 using UnityEngine.UI;
 
-public class DialogueBoxManager : MonoBehaviour {
-	
-	//set var to save Dialgoue Box
+public class DialogueBoxForMenu : MonoBehaviour {
+
+    //set var to save Dialgoue Box
 	public GameObject DialogueBox;
 	
 	//set var to store Text
@@ -25,20 +22,11 @@ public class DialogueBoxManager : MonoBehaviour {
 	//set current and end line
 	public int currentLine;
 	public int endAtLine;
-	public int newLine;
-	
-	//set controller so that when talk player staystill
-	public CharacterController Player_Controller;
-	//set player to find then to disable mouselook script
-	public GameObject Player;
 	
 	// set var for typing
 	private Boolean isTyping = false;
 	private Boolean cancelTyping = false;
 	public float Typespeed;
-	
-	// set var for tressure chest sound case
-	public Boolean SoundIsPlaying;
 	
 	// if Object is NPC, use this sound
 	private AudioSource TalkingSound;
@@ -47,20 +35,44 @@ public class DialogueBoxManager : MonoBehaviour {
 	private Boolean FirstTime;
 	
 	//set Var for Character Name if their is any mention
-	private String CharName;
+	public String CharName;
+	
+	// set var to store NamingLine
+	private int ActivateNamingLine;
+	
+	// set var to freeze whole process
+	public Boolean WaitForAnswer;
+	
+	//set second whiteplane
+	public GameObject WhitePlane2;
+	
+	// set boolean for Getting the MovingChoices to appear
+	public Boolean SetMovingChoiceActive;
+	
+	// set public for ChoiceBox;
+	public GameObject ChoiceBox;
+	
+	
+	
 	
 	// Use this for initialization
 	void Start ()
 	{	
+		// set wait for answer
+		WaitForAnswer = false;
+		
 		// set sound effect to take from AudioSource
 		TalkingSound = GetComponent<AudioSource>();
-		
-		//set player to be PlayerContoller
-		Player_Controller = FindObjectOfType<CharacterController>();
 		
 		//set Character Name base on what player name them
 		CharName = NameStorage.CharacterName;
 		//temporary
+		
+		//set ActivateNamingLine Number
+		ActivateNamingLine = gameObject.GetComponent<ActivateNaming>().NamingLine;
+		
+		//set SetMovingChoiceActive false
+		SetMovingChoiceActive = false;
 	}
 	
 	// Update is called once per frame
@@ -81,12 +93,15 @@ public class DialogueBoxManager : MonoBehaviour {
 		// Check if its a treassure case and sound no end
 		else
 		{
-			if (SoundIsPlaying == false)
+			// check to see if waiting or not
+			if (WaitForAnswer == false)
 			{
 				// Check if Collision with player happen or not
 				if (Input.GetMouseButtonDown(0))
 				{
-
+					print("Hoii");
+					
+					
 					if (isTyping == false)
 					{
 						//change line when mouse buttoon down (left)
@@ -94,16 +109,13 @@ public class DialogueBoxManager : MonoBehaviour {
 						DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
 						DialogueLine[currentLine] = DialogueInUse;
 						print(DialogueInUse);
-
+			
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)
 						{
-							Player_Controller.enabled = true;
-							Player.GetComponent<MouseLook>().enabled = true;
-
 							DialogueBox.SetActive(false);
-							gameObject.GetComponent<DialogueBoxManager>().enabled = false;
-							currentLine = newLine;
+							gameObject.GetComponent<DialogueBoxForMenu>().enabled = false;
+							WhitePlane2.SetActive(true);
 						}
 						else
 						{
@@ -118,30 +130,23 @@ public class DialogueBoxManager : MonoBehaviour {
 
 				if (currentLine > endAtLine)
 				{
-					Player_Controller.enabled = true;
-					Player.GetComponent<MouseLook>().enabled = true;
-
 					DialogueBox.SetActive(false);
-					gameObject.GetComponent<DialogueBoxManager>().enabled = false;
-					currentLine = newLine;
-
-					// if the object is dialogue box then delete the colliderchecker
-					if (gameObject.tag == "Tressure Box")
-					{
-						gameObject.GetComponent<CheckColforDia>().enabled = false;
-					}
+					gameObject.GetComponent<DialogueBoxForMenu>().enabled = false;
+					WhitePlane2.SetActive(true);
 				}
 			}
 		}
 	}
 
 	// set funtion to play text one by one letter
-	private IEnumerator TextScroll(String LineofText)
+	public IEnumerator TextScroll(String LineofText)
 	{
 		int letter = 0;
 		theText.text = "";
 		isTyping = true;
 		cancelTyping = false;
+		gameObject.GetComponent<ActivateChoices>().Allow = false;
+		print(gameObject.GetComponent<ActivateChoices>().Allow);
 		while (isTyping && !cancelTyping && (letter < LineofText.Length - 1))
 		{
 			theText.text += LineofText[letter];
@@ -156,6 +161,19 @@ public class DialogueBoxManager : MonoBehaviour {
 		isTyping = false;
 		cancelTyping = false;
 		FirstTime = false;
+		gameObject.GetComponent<ActivateChoices>().Allow = true;
+		print(gameObject.GetComponent<ActivateChoices>().Allow);
+
+		if (SetMovingChoiceActive == true)
+		{
+			SetMovingChoiceActive = false;
+			ChoiceBox.SetActive(true);
+		}
+		
+		if (currentLine == ActivateNamingLine)
+		{
+			WaitForAnswer = true;
+		}
 	}
 	
 	//set for when enable player no move
@@ -163,10 +181,6 @@ public class DialogueBoxManager : MonoBehaviour {
 	{	
 		// set firsttime to be true
 		FirstTime = true;
-		
-		//player no move
-		Player_Controller.enabled = false;
-		Player.GetComponent<MouseLook>().enabled = false;
 
 		DialogueFileInUse = DialogueFile;
 		
@@ -184,5 +198,17 @@ public class DialogueBoxManager : MonoBehaviour {
 		
 		//DiablogueBox Come
 		DialogueBox.SetActive(true);
+		
+		// set wait for answer
+		WaitForAnswer = false;
+	}
+	
+	// force coroutine
+	public void ForceCoroutine()
+	{
+		CharName = NameStorage.CharacterName;
+		DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
+		DialogueLine[currentLine] = DialogueInUse;
+		StartCoroutine(TextScroll(DialogueLine[currentLine]));
 	}
 }

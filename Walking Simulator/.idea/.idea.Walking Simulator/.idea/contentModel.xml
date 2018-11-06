@@ -13,6 +13,7 @@
           <e p="120Gold.txt" t="Include" />
           <e p="Counselor.txt" t="Include" />
           <e p="King.txt" t="Include" />
+          <e p="NamingMenu.txt" t="Include" />
           <e p="Shield.txt" t="Include" />
           <e p="Soldier Left.txt" t="Include" />
           <e p="Soldier Right.txt" t="Include" />
@@ -207,14 +208,39 @@
         </e>
         <e p="Script" t="Include">
           <e p="BoxOpen.cs" t="Include" />
+          <e p="CallVillageFunction.cs" t="Include" />
+          <e p="CharacterStartUp.cs" t="Include" />
           <e p="CheckColforDia.cs" t="Include" />
           <e p="DialogueBoxManager.cs" t="Include" />
           <e p="DoorOpener.cs" t="Include" />
           <e p="EQsprite.cs" t="Include" />
           <e p="FaceTarget.cs" t="Include" />
+          <e p="ForLogo" t="Include">
+            <e p="ActivateChoices.cs" t="Include" />
+            <e p="ActivateNaming.cs" t="Include" />
+            <e p="AmberPalmmyStart.cs" t="Include" />
+            <e p="BlkackPlaneAction.cs" t="Include" />
+            <e p="CheckEnable.cs" t="Include" />
+            <e p="Control.cs" t="Include" />
+            <e p="DialogueBoxForMenu.cs" t="Include" />
+            <e p="LogoAnimation.cs" t="Include" />
+            <e p="MainToThron.cs" t="Include" />
+            <e p="MovingBackGround.cs" t="Include" />
+            <e p="MovingChoice.cs" t="Include" />
+            <e p="PlaneWhiteCall.cs" t="Include" />
+            <e p="SoundFadeIn.cs" t="Include" />
+            <e p="StartButton.cs" t="Include" />
+          </e>
+          <e p="LocationName.cs" t="Include" />
+          <e p="NameStorage.cs" t="Include" />
           <e p="PlayBGSong.cs" t="Include" />
           <e p="SoldierSPchange.cs" t="Include" />
           <e p="SpriteLook.cs" t="Include" />
+          <e p="Stair01.txt" t="Include" />
+          <e p="Stair02.txt" t="Include" />
+          <e p="StairCallForChoice.cs" t="Include" />
+          <e p="StairDialogueManager.cs" t="Include" />
+          <e p="StairMovingChoice.cs" t="Include" />
           <e p="StairSound.cs" t="Include" />
           <e p="TestforText.cs" t="Include" />
           <e p="WalkingSound.cs" t="Include" />

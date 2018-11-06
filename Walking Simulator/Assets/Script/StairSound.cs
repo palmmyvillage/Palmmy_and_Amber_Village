@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class StairSound : MonoBehaviour {
+		
+	// set textfile
+	public TextAsset CannotLeaveYet;
+	public TextAsset CanLeaveNow;
 
 	//set string for PlayerRigidBody Name
 	public String PlayerFootRigidBody;
@@ -25,7 +29,19 @@ public class StairSound : MonoBehaviour {
 	void Update () {
 		if (TouchingStair == true)
 		{
-			StairDownSound.Play(0);
+			if (NameStorage.TalkToKing && NameStorage.GetSword && NameStorage.GetShield && NameStorage.GetMoney)
+			{
+				gameObject.GetComponent<StairDialogueManager>().StairDialogueFile = CanLeaveNow;
+				gameObject.GetComponent<StairDialogueManager>().enabled = true;
+				gameObject.GetComponent<StairCallForChoice>().enabled = true;
+			}
+			else
+			{
+				gameObject.GetComponent<StairDialogueManager>().StairDialogueFile = CannotLeaveYet;
+				gameObject.GetComponent<StairDialogueManager>().enabled = true;
+			}
+				
+				
 			TouchingStair = false;
 		}
 	}

@@ -2,7 +2,7 @@ Welcome, Brave [CharacterName].
 Our princess had been kidnapped by monstrous cult.
 They are going to use her as a sacrifice for their evil ritual
 to call forth a great terror to the kingdom.
-I implore you, brave "name", to rescue my beloved daughter
+I implore you, brave [CharacterName], to rescue my beloved daughter
 and kill those fanatics, returning peace to the land.
 You will find them in the Cursed Cave.
 Take what you find in the chests. They should help your quest.

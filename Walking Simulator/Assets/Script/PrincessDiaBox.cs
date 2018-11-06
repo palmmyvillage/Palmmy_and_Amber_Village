@@ -142,9 +142,13 @@ public class PrincessDiaBox : MonoBehaviour {
 						//change line when mouse buttoon down (left)
 						currentLine += 1;
 						Typespeed *= 1.5f;
-						DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
-						DialogueLine[currentLine] = DialogueInUse;
-						print(DialogueInUse);
+						
+						if (currentLine <= endAtLine)
+						{
+							DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
+							DialogueLine[currentLine] = DialogueInUse;
+							print(DialogueInUse);
+						}
 
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)

@@ -94,9 +94,12 @@ public class MageDialogue : MonoBehaviour {
 					{
 						//change line when mouse buttoon down (left)
 						currentLine += 1;
-						DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
-						DialogueLine[currentLine] = DialogueInUse;
-						print(DialogueInUse);
+						if (currentLine < endAtLine)
+						{
+							DialogueInUse = DialogueLine[currentLine].Replace("[CharacterName]", CharName);
+							DialogueLine[currentLine] = DialogueInUse;
+							print(DialogueInUse);
+						}
 
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)
@@ -125,6 +128,7 @@ public class MageDialogue : MonoBehaviour {
 				{
 					gameObject.GetComponent<Animator>().enabled = true;
 					BGMobject.GetComponent<SoundFadeIn>().enabled = true;
+					gameObject.GetComponent<MageColi>().enabled = false;
 					
 					DialogueBox.SetActive(false);
 					gameObject.GetComponent<MageDialogue>().enabled = false;

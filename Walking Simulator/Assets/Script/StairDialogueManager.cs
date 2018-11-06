@@ -91,8 +91,12 @@ public class StairDialogueManager : MonoBehaviour {
 					{
 						//change line when mouse buttoon down (left)
 						currentLine += 1;
-						StairDialogueInUse = StairDialogueLine[currentLine].Replace("[CharacterName]", CharacterName);
-						StairDialogueLine[currentLine] = StairDialogueInUse;
+						
+						if (currentLine <= endAtLine)
+						{
+							StairDialogueInUse = StairDialogueLine[currentLine].Replace("[CharacterName]", CharacterName);
+							StairDialogueLine[currentLine] = StairDialogueInUse;
+						}
 
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)

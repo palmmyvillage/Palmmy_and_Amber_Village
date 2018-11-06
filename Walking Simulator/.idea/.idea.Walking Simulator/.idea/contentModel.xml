@@ -26,6 +26,7 @@
           <e p="MAGE.txt" t="Include" />
           <e p="NamingMenu.txt" t="Include" />
           <e p="Princess.txt" t="Include" />
+          <e p="ReturnVillage.txt" t="Include" />
           <e p="RuinedCilt1.txt" t="Include" />
           <e p="RuinedCilt2.txt" t="Include" />
           <e p="RuinedCilt3.txt" t="Include" />
@@ -269,6 +270,7 @@
           <e p="GoToCaveChoice.cs" t="Include" />
           <e p="GotoCaveColi.cs" t="Include" />
           <e p="GoToCaveDialogue.cs" t="Include" />
+          <e p="GoToVillageFromCave.cs" t="Include" />
           <e p="LocationName.cs" t="Include" />
           <e p="MageColi.cs" t="Include" />
           <e p="MageDialogue.cs" t="Include" />
@@ -280,6 +282,7 @@
           <e p="PrincessDiaBox.cs" t="Include" />
           <e p="RuinedMaterial.cs" t="Include" />
           <e p="RuinedNPC.cs" t="Include" />
+          <e p="RuinMage.cs" t="Include" />
           <e p="SoldierSPchange.cs" t="Include" />
           <e p="SpriteLook.cs" t="Include" />
           <e p="SpriteLookForFlame.cs" t="Include" />

@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cave_Scene.unity
     guid: ce8478c8e157c4ec8a1a83fc69ae71fe
+  - enabled: 1
+    path: Assets/Scenes/Amber_RuinTown_Scene.unity
+    guid: 3160812723af0044080a67cfac04b53e
   m_configObjects: {}

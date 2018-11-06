@@ -98,8 +98,12 @@ public class GoToCaveDialogue : MonoBehaviour {
 					{
 						//change line when mouse buttoon down (left)
 						currentLine += 1;
-						GotoCaveInUse = GotoCaveLine[currentLine].Replace("[CharacterName]", CharacterName);
-						GotoCaveLine[currentLine] = GotoCaveInUse;
+						
+						if (currentLine <= endAtLine)
+						{
+							GotoCaveInUse = GotoCaveLine[currentLine].Replace("[CharacterName]", CharacterName);
+							GotoCaveLine[currentLine] = GotoCaveInUse;
+						}
 
 						// deactivate dialogue boz after finish dialogue
 						if (currentLine > endAtLine)

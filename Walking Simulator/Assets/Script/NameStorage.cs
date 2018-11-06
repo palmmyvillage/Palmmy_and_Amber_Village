@@ -10,4 +10,5 @@ public static class NameStorage
 	public static bool GetSword;
 	public static bool GetShield;
 	public static bool GetMoney;
+	public static bool WorldRuined;
 }

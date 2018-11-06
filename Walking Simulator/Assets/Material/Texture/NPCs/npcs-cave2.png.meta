@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 90a1435577c4e22428c110b2a768ad45
+guid: 51acad648468b488096d80b7d4bcdcb2
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Princess_cursed_1
-    21300002: Princess_cursed_2
-    21300004: Princess_hanged_1
-    21300006: Princess_hanged_2
-    21300008: Executioner_1
-    21300010: Executioner_2
-    21300012: Mage_1
-    21300014: Mage_2
-    21300016: Executioner_Corpse_1
-    21300018: Executioner_Corpse_2
+    21300000: PrincessBlood1-1
+    21300002: PrincessBlood1-2
+    21300004: PrincessBlood2-1
+    21300006: PrincessBlood2-2
+    21300008: PrincessBlood3-1
+    21300010: PrincessBlood3-2
+    21300012: PrincessBlood4-1
+    21300014: PrincessBlood4-2
+    21300016: PrincessBlood5-1
+    21300018: PrincessBlood5-2
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -90,22 +90,11 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Princess_cursed_1
+      name: PrincessBlood1-1
       rect:
         serializedVersion: 2
         x: 2
@@ -119,13 +108,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a786b581dbeeee8488b59f5c43524ebf
+      spriteID: 3328cadbc4cda4e1b8a2b509f8c47a32
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Princess_cursed_2
+      name: PrincessBlood1-2
       rect:
         serializedVersion: 2
         x: 20
@@ -139,13 +128,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3f055697f0bfb3449da28e26e270beb
+      spriteID: 7412cc05e9db6466a9d543bce5697e32
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Princess_hanged_1
+      name: PrincessBlood2-1
       rect:
         serializedVersion: 2
         x: 2
@@ -159,16 +148,16 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1908b654e349144fbfdb79610a5812b
+      spriteID: 7e7616feff90b42a3bc21bf46c04ddec
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Princess_hanged_2
+      name: PrincessBlood2-2
       rect:
         serializedVersion: 2
-        x: 20
+        x: 21
         y: 33
         width: 16
         height: 16
@@ -179,13 +168,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b13a99d4391cb44e9480a624f72c8d5
+      spriteID: 217022e1d93f048ee94a10d2d2d8c7d3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Executioner_1
+      name: PrincessBlood3-1
       rect:
         serializedVersion: 2
         x: 41
@@ -199,16 +188,16 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9d244b91325f3b49bf4cc5a15f5fb56
+      spriteID: 305b79433b3214550ab620b3675964e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Executioner_2
+      name: PrincessBlood3-2
       rect:
         serializedVersion: 2
-        x: 60
+        x: 59
         y: 55
         width: 16
         height: 16
@@ -219,53 +208,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d98e4796d217c649a16e0ce261179c6
+      spriteID: a8960038390d24ffe9674450b891f1c6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mage_1
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 55
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd23587618cf7054f8a38e9313c7d61f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Mage_2
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 55
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf8561b731c077a4fb1039ef747ab00a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Executioner_Corpse_1
+      name: PrincessBlood4-1
       rect:
         serializedVersion: 2
         x: 41
@@ -279,16 +228,16 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a490827e573976f45a35e8b82445e136
+      spriteID: 1fc1caa9cd1b443ba95a058a2ee67872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Executioner_Corpse_2
+      name: PrincessBlood4-2
       rect:
         serializedVersion: 2
-        x: 60
+        x: 59
         y: 33
         width: 16
         height: 16
@@ -299,7 +248,47 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24734bc231d34414da6c2402ce928198
+      spriteID: a8991bb408d744a5a995116193956db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessBlood5-1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d8252760b9649549c676d4e5a698e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrincessBlood5-2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d345330285424298d10c26f06dfc4
       vertices: []
       indices: 
       edges: []
@@ -307,7 +296,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d71c853c25f6b234d92a2db646492285
+    spriteID: 10b28f9595947439581307888e995769
     vertices: []
     indices: 
     edges: []

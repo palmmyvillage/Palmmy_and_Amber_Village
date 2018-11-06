@@ -12,10 +12,23 @@
         <e p="Dialogue" t="Include">
           <e p="120Gold.txt" t="Include" />
           <e p="BacktoCastle.txt" t="Include" />
+          <e p="BacktoVillage1.txt" t="Include" />
           <e p="Counselor.txt" t="Include" />
+          <e p="Cult1.txt" t="Include" />
+          <e p="Cult2.txt" t="Include" />
+          <e p="Cult3.txt" t="Include" />
+          <e p="Cult4.txt" t="Include" />
+          <e p="Cult5.txt" t="Include" />
+          <e p="Cult6.txt" t="Include" />
+          <e p="Cult7.txt" t="Include" />
           <e p="GotoCave.txt" t="Include" />
           <e p="King.txt" t="Include" />
+          <e p="MAGE.txt" t="Include" />
           <e p="NamingMenu.txt" t="Include" />
+          <e p="Princess.txt" t="Include" />
+          <e p="RuinedCilt1.txt" t="Include" />
+          <e p="RuinedCilt2.txt" t="Include" />
+          <e p="RuinedCilt3.txt" t="Include" />
           <e p="RuinTown-Boy.txt" t="Include" />
           <e p="RuinTown-Cat.txt" t="Include" />
           <e p="RuinTown-Dog.txt" t="Include" />
@@ -232,6 +245,7 @@
           <e p="CharacterStartUp.cs" t="Include" />
           <e p="CheckColforDia.cs" t="Include" />
           <e p="DialogueBoxManager.cs" t="Include" />
+          <e p="DisAcrRed.cs" t="Include" />
           <e p="DoorOpener.cs" t="Include" />
           <e p="DoorOpenerSingle_Test.cs" t="Include" />
           <e p="EQsprite.cs" t="Include" />
@@ -256,9 +270,16 @@
           <e p="GotoCaveColi.cs" t="Include" />
           <e p="GoToCaveDialogue.cs" t="Include" />
           <e p="LocationName.cs" t="Include" />
+          <e p="MageColi.cs" t="Include" />
+          <e p="MageDialogue.cs" t="Include" />
+          <e p="MageRelease.cs" t="Include" />
           <e p="MoveToCave.cs" t="Include" />
           <e p="NameStorage.cs" t="Include" />
           <e p="PlayBGSong.cs" t="Include" />
+          <e p="PrincessColiDia.cs" t="Include" />
+          <e p="PrincessDiaBox.cs" t="Include" />
+          <e p="RuinedMaterial.cs" t="Include" />
+          <e p="RuinedNPC.cs" t="Include" />
           <e p="SoldierSPchange.cs" t="Include" />
           <e p="SpriteLook.cs" t="Include" />
           <e p="SpriteLookForFlame.cs" t="Include" />

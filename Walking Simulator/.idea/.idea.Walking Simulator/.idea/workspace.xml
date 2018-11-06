@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37c6fc29-5ebe-4da5-82c9-b371d521864f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Walking Simulator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Pixel Sky.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Pixel Sky.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Cave-Ground_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-FloorBrick.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-FloorBrick.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/Town-Grass2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/Town-Grass2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/skybox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/skybox.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/TownSky.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/TownSky.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Amber_Town_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Amber_Town_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Skybox.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Texture/RuinTown-Skybox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Amber_RuinTown_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Amber_RuinTown_Scene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,13 +66,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="222" />
-          <entry key="txt" value="191" />
+          <entry key="txt" value="272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="222" />
-          <entry key="PLAIN_TEXT" value="191" />
+          <entry key="PLAIN_TEXT" value="272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -226,7 +217,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_4.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -442,7 +433,7 @@
       <workItem from="1541172897212" duration="5039000" />
       <workItem from="1541283956280" duration="324000" />
       <workItem from="1541382654234" duration="5413000" />
-      <workItem from="1541465714219" duration="641000" />
+      <workItem from="1541465714219" duration="1929000" />
     </task>
     <task id="LOCAL-00001" summary="Amber update Menu UI in Amber_Scene.&#10;Amber add a 'pixelation' tool.(Never mind)">
       <created>1539318569148</created>
@@ -528,11 +519,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541400301130</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Amber adds RuinTown Scene and many new materials and textures.">
+      <created>1541469242839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1541469242839</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53347000" />
+    <option name="totallyTimeSpent" value="54635000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,7 +588,8 @@
     <MESSAGE value="Palmmy deal with sword and shield" />
     <MESSAGE value="Palmmy deal with dialogue and sound" />
     <MESSAGE value="Palmmy Check In Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palmmy Check In Update" />
+    <MESSAGE value="Amber adds RuinTown Scene and many new materials and textures." />
+    <option name="LAST_COMMIT_MESSAGE" value="Amber adds RuinTown Scene and many new materials and textures." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -882,7 +881,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue/RuinTown-Woman_4.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>

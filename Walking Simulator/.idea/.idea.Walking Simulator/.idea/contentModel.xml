@@ -11,7 +11,9 @@
       <e p="Assets" t="Include">
         <e p="Dialogue" t="Include">
           <e p="120Gold.txt" t="Include" />
+          <e p="BacktoCastle.txt" t="Include" />
           <e p="Counselor.txt" t="Include" />
+          <e p="GotoCave.txt" t="Include" />
           <e p="King.txt" t="Include" />
           <e p="NamingMenu.txt" t="Include" />
           <e p="RuinTown-Boy.txt" t="Include" />
@@ -32,6 +34,8 @@
           <e p="Shield.txt" t="Include" />
           <e p="Soldier Left.txt" t="Include" />
           <e p="Soldier Right.txt" t="Include" />
+          <e p="Stair01.txt" t="Include" />
+          <e p="Stair02.txt" t="Include" />
           <e p="Sword.txt" t="Include" />
           <e p="Town-Boy.txt" t="Include" />
           <e p="Town-Cat.txt" t="Include" />
@@ -222,6 +226,7 @@
           </e>
         </e>
         <e p="Script" t="Include">
+          <e p="BackToCastleColi.cs" t="Include" />
           <e p="BoxOpen.cs" t="Include" />
           <e p="CallVillageFunction.cs" t="Include" />
           <e p="CharacterStartUp.cs" t="Include" />
@@ -247,14 +252,16 @@
             <e p="SoundFadeIn.cs" t="Include" />
             <e p="StartButton.cs" t="Include" />
           </e>
+          <e p="GoToCaveChoice.cs" t="Include" />
+          <e p="GotoCaveColi.cs" t="Include" />
+          <e p="GoToCaveDialogue.cs" t="Include" />
           <e p="LocationName.cs" t="Include" />
+          <e p="MoveToCave.cs" t="Include" />
           <e p="NameStorage.cs" t="Include" />
           <e p="PlayBGSong.cs" t="Include" />
           <e p="SoldierSPchange.cs" t="Include" />
           <e p="SpriteLook.cs" t="Include" />
           <e p="SpriteLookForFlame.cs" t="Include" />
-          <e p="Stair01.txt" t="Include" />
-          <e p="Stair02.txt" t="Include" />
           <e p="StairCallForChoice.cs" t="Include" />
           <e p="StairDialogueManager.cs" t="Include" />
           <e p="StairMovingChoice.cs" t="Include" />

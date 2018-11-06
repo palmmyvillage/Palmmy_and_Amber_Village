@@ -33,6 +33,9 @@ public class StairMovingChoice : MonoBehaviour {
 	// set gameobject of blackPlane
 	public GameObject BlackPlane;
 	
+	// find BGMSOUND
+	public GameObject BGMobject;
+	
 	
 
 	// Use this for initialization
@@ -77,6 +80,7 @@ public class StairMovingChoice : MonoBehaviour {
 					
 					StairSoundSource.Play();
 					BlackPlane.SetActive(true);
+					BGMobject.GetComponent<SoundFadeIn>().enabled = true;
 
 					ChoiceBox.SetActive(false);
 					StairDialogueBox.SetActive(false);

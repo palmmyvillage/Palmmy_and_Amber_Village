@@ -1942,6 +1942,7 @@ MonoBehaviour:
   Player_Controller: {fileID: 2037563774}
   Player: {fileID: 2037563770}
   BlackPlane: {fileID: 1408232380}
+  BGMobject: {fileID: 391918832}
 --- !u!114 &350885914
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1985,6 +1986,7 @@ GameObject:
   m_Component:
   - component: {fileID: 391918833}
   - component: {fileID: 391918834}
+  - component: {fileID: 391918835}
   m_Layer: 0
   m_Name: BGM
   m_TagString: Untagged
@@ -2100,6 +2102,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &391918835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 391918832}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 910064568dde4406285866bd33d1a4f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SoundFadeOut: 0.01
 --- !u!1 &396151865
 GameObject:
   m_ObjectHideFlags: 0

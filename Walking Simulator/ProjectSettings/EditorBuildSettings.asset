@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Village_Scene.unity
     guid: e43f21f19f62c43278650d58532049f0
+  - enabled: 1
+    path: Assets/Scenes/Cave_Scene.unity
+    guid: ce8478c8e157c4ec8a1a83fc69ae71fe
   m_configObjects: {}

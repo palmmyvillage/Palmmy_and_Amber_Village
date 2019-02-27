@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Walking Simulator.-1203945763.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\ps380\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ps380\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Walking Simulator.-611863327.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ps380\Desktop\CodeLab1\Palmmy_and_Amber_Village\Walking Simulator" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -21,10 +21,12 @@
           <e p="Cult5.txt" t="Include" />
           <e p="Cult6.txt" t="Include" />
           <e p="Cult7.txt" t="Include" />
+          <e p="EndGame.txt" t="Include" />
           <e p="GotoCave.txt" t="Include" />
           <e p="King.txt" t="Include" />
           <e p="MAGE.txt" t="Include" />
           <e p="NamingMenu.txt" t="Include" />
+          <e p="NoNeedToGoBackToCave.txt" t="Include" />
           <e p="Princess.txt" t="Include" />
           <e p="ReturnVillage.txt" t="Include" />
           <e p="RuinedCilt1.txt" t="Include" />
@@ -245,6 +247,7 @@
           <e p="CallVillageFunction.cs" t="Include" />
           <e p="CharacterStartUp.cs" t="Include" />
           <e p="CheckColforDia.cs" t="Include" />
+          <e p="CreditControl.cs" t="Include" />
           <e p="DialogueBoxManager.cs" t="Include" />
           <e p="DisAcrRed.cs" t="Include" />
           <e p="DoorOpener.cs" t="Include" />
@@ -280,6 +283,7 @@
           <e p="PlayBGSong.cs" t="Include" />
           <e p="PrincessColiDia.cs" t="Include" />
           <e p="PrincessDiaBox.cs" t="Include" />
+          <e p="QuitGame.cs" t="Include" />
           <e p="RuinedMaterial.cs" t="Include" />
           <e p="RuinedNPC.cs" t="Include" />
           <e p="RuinMage.cs" t="Include" />
@@ -291,6 +295,7 @@
           <e p="StairMovingChoice.cs" t="Include" />
           <e p="StairSound.cs" t="Include" />
           <e p="TestforText.cs" t="Include" />
+          <e p="ToCredit.cs" t="Include" />
           <e p="WalkingSound.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">

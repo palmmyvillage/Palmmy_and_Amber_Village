@@ -1,0 +1,3 @@
+This is the end of the game.
+There is nothing you can do anymore.
+please press [ESC] whenever you want to quit the game.
